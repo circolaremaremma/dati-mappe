@@ -1,0 +1,1043 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="outdooractive - http://www.outdooractive.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1">
+  <metadata>
+    <name>Anello Lago di Montagna</name>
+    <author>
+      <name>Lucia Azzaro - Community</name>
+    </author>
+    <link href="https://www.outdooractive.com/r/288584095"/>
+    <time>2024-03-16T16:06:19.322Z</time>
+    <extensions>
+      <oa:oaCategory>hikingTourTrail</oa:oaCategory>
+    </extensions>
+  </metadata>
+  <trk>
+    <name>Anello Lago di Montagna</name>
+    <type>hikingTourTrail</type>
+    <trkseg>
+      <trkpt lat="42.787" lon="11.509853">
+        <ele>510.2</ele>
+        <name>42.787000N, 11.509853E</name>
+        <extensions>
+          <oa:locType>routingNode</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.786973" lon="11.509821">
+        <ele>510.2</ele>
+      </trkpt>
+      <trkpt lat="42.786835" lon="11.510038">
+        <ele>513.3</ele>
+      </trkpt>
+      <trkpt lat="42.786707" lon="11.510238">
+        <ele>516.3</ele>
+      </trkpt>
+      <trkpt lat="42.786707" lon="11.510238">
+        <ele>516.3</ele>
+      </trkpt>
+      <trkpt lat="42.786707" lon="11.510238">
+        <ele>516.3</ele>
+      </trkpt>
+      <trkpt lat="42.78664" lon="11.510351">
+        <ele>517.3</ele>
+      </trkpt>
+      <trkpt lat="42.786542" lon="11.510564">
+        <ele>515.5</ele>
+      </trkpt>
+      <trkpt lat="42.786394" lon="11.510928">
+        <ele>516.7</ele>
+      </trkpt>
+      <trkpt lat="42.786346" lon="11.511031">
+        <ele>518.1</ele>
+      </trkpt>
+      <trkpt lat="42.786316" lon="11.511195">
+        <ele>521.6</ele>
+      </trkpt>
+      <trkpt lat="42.786318" lon="11.511332">
+        <ele>524.3</ele>
+      </trkpt>
+      <trkpt lat="42.786331" lon="11.51163">
+        <ele>523.4</ele>
+      </trkpt>
+      <trkpt lat="42.786353" lon="11.511855">
+        <ele>523.3</ele>
+      </trkpt>
+      <trkpt lat="42.786353" lon="11.511855">
+        <ele>523.3</ele>
+      </trkpt>
+      <trkpt lat="42.786353" lon="11.511855">
+        <ele>523.3</ele>
+      </trkpt>
+      <trkpt lat="42.786361" lon="11.511929">
+        <ele>523.5</ele>
+      </trkpt>
+      <trkpt lat="42.786356" lon="11.51205">
+        <ele>523.7</ele>
+      </trkpt>
+      <trkpt lat="42.786356" lon="11.51205">
+        <ele>523.7</ele>
+      </trkpt>
+      <trkpt lat="42.786356" lon="11.51205">
+        <ele>523.7</ele>
+      </trkpt>
+      <trkpt lat="42.786304" lon="11.512182">
+        <ele>523.8</ele>
+      </trkpt>
+      <trkpt lat="42.78622" lon="11.512276">
+        <ele>523.8</ele>
+      </trkpt>
+      <trkpt lat="42.786002" lon="11.512495">
+        <ele>525.6</ele>
+      </trkpt>
+      <trkpt lat="42.785776" lon="11.512738">
+        <ele>527.4</ele>
+      </trkpt>
+      <trkpt lat="42.785589" lon="11.512986">
+        <ele>527.3</ele>
+      </trkpt>
+      <trkpt lat="42.785589" lon="11.512986">
+        <ele>527.3</ele>
+      </trkpt>
+      <trkpt lat="42.785589" lon="11.512986">
+        <ele>527.3</ele>
+      </trkpt>
+      <trkpt lat="42.785661" lon="11.513035">
+        <ele>529.0</ele>
+      </trkpt>
+      <trkpt lat="42.785661" lon="11.513035">
+        <ele>529.0</ele>
+      </trkpt>
+      <trkpt lat="42.785661" lon="11.513035">
+        <ele>529.0</ele>
+      </trkpt>
+      <trkpt lat="42.785689" lon="11.513087">
+        <ele>530.0</ele>
+      </trkpt>
+      <trkpt lat="42.78574" lon="11.513226">
+        <ele>532.5</ele>
+      </trkpt>
+      <trkpt lat="42.785789" lon="11.513375">
+        <ele>535.4</ele>
+      </trkpt>
+      <trkpt lat="42.785784" lon="11.513527">
+        <ele>538.2</ele>
+      </trkpt>
+      <trkpt lat="42.785772" lon="11.513558">
+        <ele>538.5</ele>
+        <name>Strada Monte Labbro, 58053 Roccalbegna Toscana</name>
+        <extensions>
+          <oa:locType>routingNode</oa:locType>
+          <oa:address>{
+  &quot;administrativeArea&quot; : &quot;Toscana&quot;,
+  &quot;country&quot; : &quot;Italia&quot;,
+  &quot;streetAddress&quot; : &quot;Strada Monte Labbro&quot;,
+  &quot;subAdministrativeArea&quot; : &quot;Provincia di Grosseto&quot;,
+  &quot;town&quot; : &quot;Roccalbegna&quot;,
+  &quot;zipcode&quot; : &quot;58053&quot;
+}</oa:address>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.785683" lon="11.513776">
+        <ele>540.6</ele>
+      </trkpt>
+      <trkpt lat="42.785633" lon="11.514006">
+        <ele>542.7</ele>
+      </trkpt>
+      <trkpt lat="42.785635" lon="11.514151">
+        <ele>544.5</ele>
+      </trkpt>
+      <trkpt lat="42.785657" lon="11.514277">
+        <ele>546.0</ele>
+      </trkpt>
+      <trkpt lat="42.78575" lon="11.514388">
+        <ele>548.6</ele>
+      </trkpt>
+      <trkpt lat="42.785803" lon="11.514425">
+        <ele>550.6</ele>
+      </trkpt>
+      <trkpt lat="42.785866" lon="11.514427">
+        <ele>552.4</ele>
+      </trkpt>
+      <trkpt lat="42.785975" lon="11.51436">
+        <ele>553.3</ele>
+      </trkpt>
+      <trkpt lat="42.786113" lon="11.514347">
+        <ele>556.5</ele>
+      </trkpt>
+      <trkpt lat="42.786174" lon="11.514365">
+        <ele>558.5</ele>
+      </trkpt>
+      <trkpt lat="42.786243" lon="11.514407">
+        <ele>560.3</ele>
+      </trkpt>
+      <trkpt lat="42.78636" lon="11.514524">
+        <ele>564.1</ele>
+      </trkpt>
+      <trkpt lat="42.786395" lon="11.514604">
+        <ele>565.6</ele>
+      </trkpt>
+      <trkpt lat="42.786405" lon="11.514668">
+        <ele>566.2</ele>
+      </trkpt>
+      <trkpt lat="42.786365" lon="11.515002">
+        <ele>570.2</ele>
+      </trkpt>
+      <trkpt lat="42.786367" lon="11.515142">
+        <ele>571.8</ele>
+      </trkpt>
+      <trkpt lat="42.786409" lon="11.515327">
+        <ele>573.6</ele>
+      </trkpt>
+      <trkpt lat="42.786445" lon="11.515391">
+        <ele>574.3</ele>
+      </trkpt>
+      <trkpt lat="42.7865" lon="11.515438">
+        <ele>575.2</ele>
+      </trkpt>
+      <trkpt lat="42.786614" lon="11.515441">
+        <ele>577.3</ele>
+      </trkpt>
+      <trkpt lat="42.786758" lon="11.515454">
+        <ele>579.8</ele>
+      </trkpt>
+      <trkpt lat="42.786848" lon="11.515504">
+        <ele>582.1</ele>
+      </trkpt>
+      <trkpt lat="42.786924" lon="11.515564">
+        <ele>584.3</ele>
+      </trkpt>
+      <trkpt lat="42.787139" lon="11.515848">
+        <ele>591.3</ele>
+      </trkpt>
+      <trkpt lat="42.787353" lon="11.516132">
+        <ele>598.1</ele>
+      </trkpt>
+      <trkpt lat="42.787353" lon="11.516132">
+        <ele>598.1</ele>
+      </trkpt>
+      <trkpt lat="42.787353" lon="11.516132">
+        <ele>598.1</ele>
+      </trkpt>
+      <trkpt lat="42.787351" lon="11.516192">
+        <ele>598.8</ele>
+      </trkpt>
+      <trkpt lat="42.787352" lon="11.516192">
+        <ele>598.8</ele>
+        <name>Strada Monte Labbro, 58053 Roccalbegna Toscana</name>
+        <extensions>
+          <oa:locType>routingNode</oa:locType>
+          <oa:address>{
+  &quot;administrativeArea&quot; : &quot;Toscana&quot;,
+  &quot;country&quot; : &quot;Italia&quot;,
+  &quot;streetAddress&quot; : &quot;Strada Monte Labbro&quot;,
+  &quot;subAdministrativeArea&quot; : &quot;Provincia di Grosseto&quot;,
+  &quot;town&quot; : &quot;Roccalbegna&quot;,
+  &quot;zipcode&quot; : &quot;58053&quot;
+}</oa:address>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.787353" lon="11.516132">
+        <ele>598.1</ele>
+      </trkpt>
+      <trkpt lat="42.787353" lon="11.516132">
+        <ele>598.1</ele>
+      </trkpt>
+      <trkpt lat="42.787353" lon="11.516132">
+        <ele>598.1</ele>
+      </trkpt>
+      <trkpt lat="42.78755" lon="11.51596">
+        <ele>600.3</ele>
+      </trkpt>
+      <trkpt lat="42.787608" lon="11.515811">
+        <ele>599.0</ele>
+      </trkpt>
+      <trkpt lat="42.787693" lon="11.51551">
+        <ele>597.2</ele>
+      </trkpt>
+      <trkpt lat="42.78777" lon="11.51524">
+        <ele>595.3</ele>
+      </trkpt>
+      <trkpt lat="42.787819" lon="11.51508">
+        <ele>596.8</ele>
+      </trkpt>
+      <trkpt lat="42.787932" lon="11.514832">
+        <ele>599.3</ele>
+      </trkpt>
+      <trkpt lat="42.788017" lon="11.514556">
+        <ele>601.4</ele>
+      </trkpt>
+      <trkpt lat="42.788101" lon="11.514444">
+        <ele>604.7</ele>
+      </trkpt>
+      <trkpt lat="42.788211" lon="11.514325">
+        <ele>609.3</ele>
+      </trkpt>
+      <trkpt lat="42.78845" lon="11.514281">
+        <ele>615.3</ele>
+      </trkpt>
+      <trkpt lat="42.788677" lon="11.514309">
+        <ele>619.2</ele>
+      </trkpt>
+      <trkpt lat="42.788988" lon="11.514325">
+        <ele>623.2</ele>
+      </trkpt>
+      <trkpt lat="42.789215" lon="11.514436">
+        <ele>626.0</ele>
+      </trkpt>
+      <trkpt lat="42.789502" lon="11.51448">
+        <ele>632.7</ele>
+      </trkpt>
+      <trkpt lat="42.789814" lon="11.514601">
+        <ele>638.4</ele>
+      </trkpt>
+      <trkpt lat="42.79001" lon="11.514697">
+        <ele>643.8</ele>
+        <name>58053 Roccalbegna Toscana, Italia</name>
+        <extensions>
+          <oa:locType>routingNode</oa:locType>
+          <oa:address>{
+  &quot;administrativeArea&quot; : &quot;Toscana&quot;,
+  &quot;country&quot; : &quot;Italia&quot;,
+  &quot;subAdministrativeArea&quot; : &quot;Provincia di Grosseto&quot;,
+  &quot;town&quot; : &quot;Roccalbegna&quot;,
+  &quot;zipcode&quot; : &quot;58053&quot;
+}</oa:address>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.790029" lon="11.514706">
+        <ele>644.3</ele>
+      </trkpt>
+      <trkpt lat="42.790161" lon="11.51474">
+        <ele>647.5</ele>
+      </trkpt>
+      <trkpt lat="42.790227" lon="11.514799">
+        <ele>649.8</ele>
+      </trkpt>
+      <trkpt lat="42.790276" lon="11.515096">
+        <ele>652.9</ele>
+      </trkpt>
+      <trkpt lat="42.790336" lon="11.515163">
+        <ele>655.4</ele>
+      </trkpt>
+      <trkpt lat="42.790466" lon="11.515063">
+        <ele>658.3</ele>
+      </trkpt>
+      <trkpt lat="42.790539" lon="11.514892">
+        <ele>660.5</ele>
+      </trkpt>
+      <trkpt lat="42.790636" lon="11.514677">
+        <ele>661.6</ele>
+      </trkpt>
+      <trkpt lat="42.79085" lon="11.514534">
+        <ele>664.3</ele>
+      </trkpt>
+      <trkpt lat="42.791032" lon="11.514181">
+        <ele>666.1</ele>
+      </trkpt>
+      <trkpt lat="42.791142" lon="11.514203">
+        <ele>665.5</ele>
+      </trkpt>
+      <trkpt lat="42.791275" lon="11.514209">
+        <ele>670.1</ele>
+      </trkpt>
+      <trkpt lat="42.791457" lon="11.514198">
+        <ele>671.6</ele>
+      </trkpt>
+      <trkpt lat="42.7917" lon="11.514242">
+        <ele>673.8</ele>
+      </trkpt>
+      <trkpt lat="42.79183" lon="11.514258">
+        <ele>676.3</ele>
+      </trkpt>
+      <trkpt lat="42.791992" lon="11.514275">
+        <ele>681.2</ele>
+      </trkpt>
+      <trkpt lat="42.792085" lon="11.514269">
+        <ele>683.3</ele>
+      </trkpt>
+      <trkpt lat="42.792271" lon="11.514176">
+        <ele>684.5</ele>
+      </trkpt>
+      <trkpt lat="42.792518" lon="11.514065">
+        <ele>691.5</ele>
+      </trkpt>
+      <trkpt lat="42.792712" lon="11.513828">
+        <ele>692.7</ele>
+      </trkpt>
+      <trkpt lat="42.792966" lon="11.513597">
+        <ele>697.0</ele>
+      </trkpt>
+      <trkpt lat="42.793129" lon="11.513548">
+        <ele>703.5</ele>
+      </trkpt>
+      <trkpt lat="42.793348" lon="11.513533">
+        <ele>708.5</ele>
+        <name>58053 Roccalbegna Toscana, Italia</name>
+        <extensions>
+          <oa:address>{
+  &quot;administrativeArea&quot; : &quot;Toscana&quot;,
+  &quot;country&quot; : &quot;Italia&quot;,
+  &quot;subAdministrativeArea&quot; : &quot;Provincia di Grosseto&quot;,
+  &quot;town&quot; : &quot;Roccalbegna&quot;,
+  &quot;zipcode&quot; : &quot;58053&quot;
+}</oa:address>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.793079" lon="11.513356">
+        <ele>696.23</ele>
+      </trkpt>
+      <trkpt lat="42.793101" lon="11.512978">
+        <ele>683.74</ele>
+      </trkpt>
+      <trkpt lat="42.792857" lon="11.512656">
+        <ele>664.12</ele>
+      </trkpt>
+      <trkpt lat="42.793098" lon="11.512457">
+        <ele>664.8</ele>
+      </trkpt>
+      <trkpt lat="42.793171" lon="11.512139">
+        <ele>643.82</ele>
+      </trkpt>
+      <trkpt lat="42.793279" lon="11.512294">
+        <ele>654.18</ele>
+      </trkpt>
+      <trkpt lat="42.793154" lon="11.512651">
+        <ele>675.34</ele>
+      </trkpt>
+      <trkpt lat="42.793203" lon="11.512997">
+        <ele>687.52</ele>
+      </trkpt>
+      <trkpt lat="42.793243" lon="11.513318">
+        <ele>699.39</ele>
+      </trkpt>
+      <trkpt lat="42.793454" lon="11.51349">
+        <ele>709.85</ele>
+        <name>58053 Roccalbegna Toscana, Italia</name>
+        <extensions>
+          <oa:locType>routingNode</oa:locType>
+          <oa:address>{
+  &quot;administrativeArea&quot; : &quot;Toscana&quot;,
+  &quot;country&quot; : &quot;Italia&quot;,
+  &quot;subAdministrativeArea&quot; : &quot;Provincia di Grosseto&quot;,
+  &quot;town&quot; : &quot;Roccalbegna&quot;,
+  &quot;zipcode&quot; : &quot;58053&quot;
+}</oa:address>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.793457" lon="11.513502">
+        <ele>711.5</ele>
+      </trkpt>
+      <trkpt lat="42.793554" lon="11.513465">
+        <ele>714.4</ele>
+      </trkpt>
+      <trkpt lat="42.793639" lon="11.513327">
+        <ele>714.8</ele>
+      </trkpt>
+      <trkpt lat="42.79389" lon="11.513266">
+        <ele>717.1</ele>
+      </trkpt>
+      <trkpt lat="42.7941" lon="11.513347">
+        <ele>718.3</ele>
+      </trkpt>
+      <trkpt lat="42.794331" lon="11.513409">
+        <ele>718.0</ele>
+      </trkpt>
+      <trkpt lat="42.794537" lon="11.513431">
+        <ele>718.1</ele>
+      </trkpt>
+      <trkpt lat="42.794683" lon="11.513519">
+        <ele>718.6</ele>
+      </trkpt>
+      <trkpt lat="42.794788" lon="11.513563">
+        <ele>719.6</ele>
+      </trkpt>
+      <trkpt lat="42.79491" lon="11.513514">
+        <ele>719.9</ele>
+      </trkpt>
+      <trkpt lat="42.79491" lon="11.513514">
+        <ele>719.9</ele>
+      </trkpt>
+      <trkpt lat="42.79491" lon="11.513514">
+        <ele>719.9</ele>
+      </trkpt>
+      <trkpt lat="42.794963" lon="11.513404">
+        <ele>719.6</ele>
+      </trkpt>
+      <trkpt lat="42.79503" lon="11.513172">
+        <ele>718.2</ele>
+      </trkpt>
+      <trkpt lat="42.795116" lon="11.512979">
+        <ele>714.2</ele>
+      </trkpt>
+      <trkpt lat="42.795234" lon="11.512806">
+        <ele>710.9</ele>
+      </trkpt>
+      <trkpt lat="42.795307" lon="11.512728">
+        <ele>709.2</ele>
+      </trkpt>
+      <trkpt lat="42.79541" lon="11.512622">
+        <ele>706.7</ele>
+      </trkpt>
+      <trkpt lat="42.795532" lon="11.512401">
+        <ele>703.1</ele>
+      </trkpt>
+      <trkpt lat="42.795644" lon="11.512126">
+        <ele>698.9</ele>
+      </trkpt>
+      <trkpt lat="42.79571" lon="11.511788">
+        <ele>693.5</ele>
+      </trkpt>
+      <trkpt lat="42.795771" lon="11.511524">
+        <ele>690.3</ele>
+      </trkpt>
+      <trkpt lat="42.795875" lon="11.511257">
+        <ele>687.1</ele>
+      </trkpt>
+      <trkpt lat="42.795988" lon="11.510954">
+        <ele>681.8</ele>
+      </trkpt>
+      <trkpt lat="42.796074" lon="11.51071">
+        <ele>677.9</ele>
+      </trkpt>
+      <trkpt lat="42.796068" lon="11.510435">
+        <ele>674.6</ele>
+      </trkpt>
+      <trkpt lat="42.796016" lon="11.510266">
+        <ele>672.3</ele>
+      </trkpt>
+      <trkpt lat="42.79571" lon="11.510172">
+        <ele>670.2</ele>
+      </trkpt>
+      <trkpt lat="42.79561" lon="11.510089">
+        <ele>668.7</ele>
+      </trkpt>
+      <trkpt lat="42.79554" lon="11.509881">
+        <ele>667.8</ele>
+      </trkpt>
+      <trkpt lat="42.795627" lon="11.509617">
+        <ele>671.6</ele>
+      </trkpt>
+      <trkpt lat="42.795676" lon="11.509279">
+        <ele>681.1</ele>
+      </trkpt>
+      <trkpt lat="42.795734" lon="11.508909">
+        <ele>687.2</ele>
+      </trkpt>
+      <trkpt lat="42.795823" lon="11.508732">
+        <ele>691.2</ele>
+      </trkpt>
+      <trkpt lat="42.795976" lon="11.508736">
+        <ele>692.0</ele>
+      </trkpt>
+      <trkpt lat="42.796094" lon="11.508595">
+        <ele>693.8</ele>
+      </trkpt>
+      <trkpt lat="42.796114" lon="11.508434">
+        <ele>697.7</ele>
+      </trkpt>
+      <trkpt lat="42.79614" lon="11.508256">
+        <ele>701.3</ele>
+      </trkpt>
+      <trkpt lat="42.796233" lon="11.508005">
+        <ele>702.7</ele>
+      </trkpt>
+      <trkpt lat="42.796363" lon="11.507726">
+        <ele>704.3</ele>
+      </trkpt>
+      <trkpt lat="42.796394" lon="11.507643">
+        <ele>704.8</ele>
+      </trkpt>
+      <trkpt lat="42.796495" lon="11.507419">
+        <ele>706.6</ele>
+      </trkpt>
+      <trkpt lat="42.796541" lon="11.506841">
+        <ele>715.2</ele>
+      </trkpt>
+      <trkpt lat="42.796576" lon="11.506456">
+        <ele>716.4</ele>
+      </trkpt>
+      <trkpt lat="42.796556" lon="11.505921">
+        <ele>724.6</ele>
+      </trkpt>
+      <trkpt lat="42.796556" lon="11.505724">
+        <ele>727.2</ele>
+      </trkpt>
+      <trkpt lat="42.796559" lon="11.505527">
+        <ele>727.9</ele>
+      </trkpt>
+      <trkpt lat="42.796498" lon="11.505327">
+        <ele>730.5</ele>
+      </trkpt>
+      <trkpt lat="42.796435" lon="11.504973">
+        <ele>733.5</ele>
+      </trkpt>
+      <trkpt lat="42.796383" lon="11.504792">
+        <ele>733.5</ele>
+      </trkpt>
+      <trkpt lat="42.796319" lon="11.504737">
+        <ele>733.7</ele>
+      </trkpt>
+      <trkpt lat="42.796161" lon="11.504702">
+        <ele>732.4</ele>
+      </trkpt>
+      <trkpt lat="42.795985" lon="11.504615">
+        <ele>729.7</ele>
+      </trkpt>
+      <trkpt lat="42.795901" lon="11.504471">
+        <ele>727.9</ele>
+      </trkpt>
+      <trkpt lat="42.795901" lon="11.504471">
+        <ele>727.9</ele>
+      </trkpt>
+      <trkpt lat="42.795901" lon="11.504471">
+        <ele>727.9</ele>
+      </trkpt>
+      <trkpt lat="42.795974" lon="11.504352">
+        <ele>726.3</ele>
+      </trkpt>
+      <trkpt lat="42.79609" lon="11.504083">
+        <ele>724.2</ele>
+        <name>Vicolo Agide Ghezzi 332–356, 58053 Roccalbegna Toscana</name>
+        <extensions>
+          <oa:locType>routingNode</oa:locType>
+          <oa:address>{
+  &quot;administrativeArea&quot; : &quot;Toscana&quot;,
+  &quot;country&quot; : &quot;Italia&quot;,
+  &quot;streetAddress&quot; : &quot;Vicolo Agide Ghezzi 332–356&quot;,
+  &quot;subAdministrativeArea&quot; : &quot;Provincia di Grosseto&quot;,
+  &quot;town&quot; : &quot;Roccalbegna&quot;,
+  &quot;zipcode&quot; : &quot;58053&quot;
+}</oa:address>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.796093" lon="11.504077">
+        <ele>724.2</ele>
+      </trkpt>
+      <trkpt lat="42.796167" lon="11.503858">
+        <ele>723.3</ele>
+      </trkpt>
+      <trkpt lat="42.79618" lon="11.503824">
+        <ele>723.4</ele>
+      </trkpt>
+      <trkpt lat="42.79618" lon="11.503824">
+        <ele>723.4</ele>
+      </trkpt>
+      <trkpt lat="42.79618" lon="11.503824">
+        <ele>723.4</ele>
+      </trkpt>
+      <trkpt lat="42.796013" lon="11.503771">
+        <ele>723.9</ele>
+      </trkpt>
+      <trkpt lat="42.796013" lon="11.503771">
+        <ele>723.9</ele>
+      </trkpt>
+      <trkpt lat="42.796013" lon="11.503771">
+        <ele>723.9</ele>
+      </trkpt>
+      <trkpt lat="42.795662" lon="11.503697">
+        <ele>720.1</ele>
+      </trkpt>
+      <trkpt lat="42.795275" lon="11.503576">
+        <ele>713.8</ele>
+      </trkpt>
+      <trkpt lat="42.794936" lon="11.503496">
+        <ele>707.8</ele>
+      </trkpt>
+      <trkpt lat="42.794543" lon="11.503512">
+        <ele>702.0</ele>
+      </trkpt>
+      <trkpt lat="42.794381" lon="11.503563">
+        <ele>698.3</ele>
+      </trkpt>
+      <trkpt lat="42.794239" lon="11.503675">
+        <ele>695.4</ele>
+      </trkpt>
+      <trkpt lat="42.794039" lon="11.50385">
+        <ele>690.6</ele>
+      </trkpt>
+      <trkpt lat="42.793834" lon="11.50397">
+        <ele>686.8</ele>
+      </trkpt>
+      <trkpt lat="42.793639" lon="11.504021">
+        <ele>684.3</ele>
+      </trkpt>
+      <trkpt lat="42.793338" lon="11.50404">
+        <ele>681.4</ele>
+      </trkpt>
+      <trkpt lat="42.79319" lon="11.504094">
+        <ele>679.2</ele>
+      </trkpt>
+      <trkpt lat="42.792962" lon="11.504316">
+        <ele>675.0</ele>
+      </trkpt>
+      <trkpt lat="42.792844" lon="11.504354">
+        <ele>672.5</ele>
+      </trkpt>
+      <trkpt lat="42.792594" lon="11.504322">
+        <ele>668.1</ele>
+      </trkpt>
+      <trkpt lat="42.792442" lon="11.504225">
+        <ele>663.4</ele>
+      </trkpt>
+      <trkpt lat="42.79224" lon="11.503954">
+        <ele>655.3</ele>
+      </trkpt>
+      <trkpt lat="42.791984" lon="11.503785">
+        <ele>647.7</ele>
+      </trkpt>
+      <trkpt lat="42.791895" lon="11.503694">
+        <ele>645.7</ele>
+      </trkpt>
+      <trkpt lat="42.791681" lon="11.503335">
+        <ele>643.8</ele>
+      </trkpt>
+      <trkpt lat="42.791539" lon="11.503159">
+        <ele>640.6</ele>
+      </trkpt>
+      <trkpt lat="42.791209" lon="11.502815">
+        <ele>632.7</ele>
+      </trkpt>
+      <trkpt lat="42.790879" lon="11.502471">
+        <ele>626.7</ele>
+      </trkpt>
+      <trkpt lat="42.790767" lon="11.502489">
+        <ele>625.2</ele>
+      </trkpt>
+      <trkpt lat="42.790765" lon="11.502625">
+        <ele>622.7</ele>
+      </trkpt>
+      <trkpt lat="42.790954" lon="11.502854">
+        <ele>621.9</ele>
+      </trkpt>
+      <trkpt lat="42.790998" lon="11.503011">
+        <ele>619.8</ele>
+      </trkpt>
+      <trkpt lat="42.791015" lon="11.503256">
+        <ele>616.3</ele>
+      </trkpt>
+      <trkpt lat="42.790964" lon="11.503466">
+        <ele>614.0</ele>
+      </trkpt>
+      <trkpt lat="42.790915" lon="11.503768">
+        <ele>609.7</ele>
+      </trkpt>
+      <trkpt lat="42.790872" lon="11.50383">
+        <ele>606.6</ele>
+      </trkpt>
+      <trkpt lat="42.790805" lon="11.503836">
+        <ele>603.4</ele>
+      </trkpt>
+      <trkpt lat="42.790611" lon="11.503593">
+        <ele>599.8</ele>
+      </trkpt>
+      <trkpt lat="42.790417" lon="11.503351">
+        <ele>593.1</ele>
+      </trkpt>
+      <trkpt lat="42.790187" lon="11.50318">
+        <ele>591.6</ele>
+      </trkpt>
+      <trkpt lat="42.789957" lon="11.503009">
+        <ele>590.7</ele>
+      </trkpt>
+      <trkpt lat="42.789862" lon="11.502817">
+        <ele>589.1</ele>
+      </trkpt>
+      <trkpt lat="42.789772" lon="11.50253">
+        <ele>585.3</ele>
+      </trkpt>
+      <trkpt lat="42.789654" lon="11.502254">
+        <ele>581.6</ele>
+      </trkpt>
+      <trkpt lat="42.789547" lon="11.502114">
+        <ele>579.3</ele>
+      </trkpt>
+      <trkpt lat="42.789436" lon="11.502002">
+        <ele>577.2</ele>
+      </trkpt>
+      <trkpt lat="42.789242" lon="11.501932">
+        <ele>573.8</ele>
+      </trkpt>
+      <trkpt lat="42.789169" lon="11.501961">
+        <ele>571.5</ele>
+      </trkpt>
+      <trkpt lat="42.789029" lon="11.502247">
+        <ele>564.9</ele>
+      </trkpt>
+      <trkpt lat="42.788933" lon="11.502728">
+        <ele>560.6</ele>
+      </trkpt>
+      <trkpt lat="42.788707" lon="11.503136">
+        <ele>552.3</ele>
+      </trkpt>
+      <trkpt lat="42.788526" lon="11.50367">
+        <ele>545.9</ele>
+      </trkpt>
+      <trkpt lat="42.788347" lon="11.504047">
+        <ele>542.9</ele>
+      </trkpt>
+      <trkpt lat="42.788169" lon="11.504424">
+        <ele>537.2</ele>
+      </trkpt>
+      <trkpt lat="42.788125" lon="11.504523">
+        <ele>537.0</ele>
+      </trkpt>
+      <trkpt lat="42.788085" lon="11.504591">
+        <ele>536.6</ele>
+      </trkpt>
+      <trkpt lat="42.787929" lon="11.504652">
+        <ele>533.1</ele>
+      </trkpt>
+      <trkpt lat="42.787829" lon="11.50466">
+        <ele>530.4</ele>
+      </trkpt>
+      <trkpt lat="42.787756" lon="11.504655">
+        <ele>528.4</ele>
+      </trkpt>
+      <trkpt lat="42.787694" lon="11.504627">
+        <ele>526.8</ele>
+        <name>Vicolo Agide Ghezzi 357, 58053 Roccalbegna Toscana</name>
+        <extensions>
+          <oa:locType>routingNode</oa:locType>
+          <oa:address>{
+  &quot;administrativeArea&quot; : &quot;Toscana&quot;,
+  &quot;country&quot; : &quot;Italia&quot;,
+  &quot;streetAddress&quot; : &quot;Vicolo Agide Ghezzi 357&quot;,
+  &quot;subAdministrativeArea&quot; : &quot;Provincia di Grosseto&quot;,
+  &quot;town&quot; : &quot;Roccalbegna&quot;,
+  &quot;zipcode&quot; : &quot;58053&quot;
+}</oa:address>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.787655" lon="11.50461">
+        <ele>525.8</ele>
+      </trkpt>
+      <trkpt lat="42.787581" lon="11.504563">
+        <ele>523.9</ele>
+      </trkpt>
+      <trkpt lat="42.787581" lon="11.504563">
+        <ele>523.9</ele>
+      </trkpt>
+      <trkpt lat="42.787581" lon="11.504563">
+        <ele>523.9</ele>
+      </trkpt>
+      <trkpt lat="42.787372" lon="11.504882">
+        <ele>523.2</ele>
+      </trkpt>
+      <trkpt lat="42.787164" lon="11.505085">
+        <ele>522.8</ele>
+      </trkpt>
+      <trkpt lat="42.786957" lon="11.505288">
+        <ele>525.2</ele>
+      </trkpt>
+      <trkpt lat="42.786957" lon="11.505288">
+        <ele>525.2</ele>
+      </trkpt>
+      <trkpt lat="42.786957" lon="11.505288">
+        <ele>525.2</ele>
+      </trkpt>
+      <trkpt lat="42.78684" lon="11.505271">
+        <ele>523.0</ele>
+      </trkpt>
+      <trkpt lat="42.786764" lon="11.505285">
+        <ele>521.2</ele>
+      </trkpt>
+      <trkpt lat="42.786633" lon="11.505387">
+        <ele>518.0</ele>
+      </trkpt>
+      <trkpt lat="42.786332" lon="11.505813">
+        <ele>515.1</ele>
+      </trkpt>
+      <trkpt lat="42.786031" lon="11.50624">
+        <ele>513.2</ele>
+      </trkpt>
+      <trkpt lat="42.78598" lon="11.506328">
+        <ele>512.7</ele>
+      </trkpt>
+      <trkpt lat="42.785941" lon="11.506424">
+        <ele>512.4</ele>
+      </trkpt>
+      <trkpt lat="42.785916" lon="11.506498">
+        <ele>512.2</ele>
+      </trkpt>
+      <trkpt lat="42.785916" lon="11.506498">
+        <ele>512.2</ele>
+      </trkpt>
+      <trkpt lat="42.785916" lon="11.506498">
+        <ele>512.2</ele>
+      </trkpt>
+      <trkpt lat="42.78587" lon="11.506449">
+        <ele>510.6</ele>
+      </trkpt>
+      <trkpt lat="42.785858" lon="11.506379">
+        <ele>509.5</ele>
+      </trkpt>
+      <trkpt lat="42.785716" lon="11.506553">
+        <ele>506.5</ele>
+      </trkpt>
+      <trkpt lat="42.785626" lon="11.50653">
+        <ele>502.6</ele>
+      </trkpt>
+      <trkpt lat="42.785626" lon="11.50653">
+        <ele>502.6</ele>
+      </trkpt>
+      <trkpt lat="42.785626" lon="11.50653">
+        <ele>502.6</ele>
+      </trkpt>
+      <trkpt lat="42.785632" lon="11.506602">
+        <ele>503.7</ele>
+      </trkpt>
+      <trkpt lat="42.785652" lon="11.506711">
+        <ele>505.6</ele>
+      </trkpt>
+      <trkpt lat="42.785663" lon="11.506859">
+        <ele>507.3</ele>
+      </trkpt>
+      <trkpt lat="42.785685" lon="11.507045">
+        <ele>510.6</ele>
+      </trkpt>
+      <trkpt lat="42.785685" lon="11.507045">
+        <ele>510.6</ele>
+      </trkpt>
+      <trkpt lat="42.785685" lon="11.507045">
+        <ele>510.6</ele>
+      </trkpt>
+      <trkpt lat="42.785707" lon="11.507085">
+        <ele>511.5</ele>
+      </trkpt>
+      <trkpt lat="42.78572" lon="11.50711">
+        <ele>511.9</ele>
+      </trkpt>
+      <trkpt lat="42.785731" lon="11.50713">
+        <ele>512.2</ele>
+      </trkpt>
+      <trkpt lat="42.785731" lon="11.50713">
+        <ele>512.2</ele>
+      </trkpt>
+      <trkpt lat="42.785731" lon="11.50713">
+        <ele>512.2</ele>
+      </trkpt>
+      <trkpt lat="42.785749" lon="11.507164">
+        <ele>512.7</ele>
+      </trkpt>
+      <trkpt lat="42.785749" lon="11.507164">
+        <ele>512.7</ele>
+      </trkpt>
+      <trkpt lat="42.785749" lon="11.507164">
+        <ele>512.7</ele>
+      </trkpt>
+      <trkpt lat="42.785962" lon="11.507557">
+        <ele>519.7</ele>
+      </trkpt>
+      <trkpt lat="42.785996" lon="11.507564">
+        <ele>519.9</ele>
+      </trkpt>
+      <trkpt lat="42.785996" lon="11.507564">
+        <ele>519.9</ele>
+      </trkpt>
+      <trkpt lat="42.785996" lon="11.507564">
+        <ele>519.9</ele>
+      </trkpt>
+      <trkpt lat="42.785994" lon="11.507619">
+        <ele>520.8</ele>
+      </trkpt>
+      <trkpt lat="42.786043" lon="11.50772">
+        <ele>522.1</ele>
+      </trkpt>
+      <trkpt lat="42.786208" lon="11.508043">
+        <ele>524.1</ele>
+      </trkpt>
+      <trkpt lat="42.786208" lon="11.508043">
+        <ele>524.1</ele>
+      </trkpt>
+      <trkpt lat="42.786208" lon="11.508043">
+        <ele>524.1</ele>
+      </trkpt>
+      <trkpt lat="42.786422" lon="11.50845">
+        <ele>522.7</ele>
+      </trkpt>
+      <trkpt lat="42.786422" lon="11.50845">
+        <ele>522.7</ele>
+      </trkpt>
+      <trkpt lat="42.786422" lon="11.50845">
+        <ele>522.7</ele>
+      </trkpt>
+      <trkpt lat="42.786484" lon="11.508574">
+        <ele>521.8</ele>
+      </trkpt>
+      <trkpt lat="42.786484" lon="11.508574">
+        <ele>521.8</ele>
+      </trkpt>
+      <trkpt lat="42.786484" lon="11.508574">
+        <ele>521.8</ele>
+      </trkpt>
+      <trkpt lat="42.786517" lon="11.508602">
+        <ele>521.7</ele>
+      </trkpt>
+      <trkpt lat="42.786517" lon="11.508602">
+        <ele>521.7</ele>
+      </trkpt>
+      <trkpt lat="42.786517" lon="11.508602">
+        <ele>521.7</ele>
+      </trkpt>
+      <trkpt lat="42.786594" lon="11.508624">
+        <ele>521.6</ele>
+      </trkpt>
+      <trkpt lat="42.786594" lon="11.508624">
+        <ele>521.6</ele>
+      </trkpt>
+      <trkpt lat="42.786594" lon="11.508624">
+        <ele>521.6</ele>
+      </trkpt>
+      <trkpt lat="42.78669" lon="11.50864">
+        <ele>521.6</ele>
+      </trkpt>
+      <trkpt lat="42.786827" lon="11.508664">
+        <ele>519.6</ele>
+      </trkpt>
+      <trkpt lat="42.786883" lon="11.508701">
+        <ele>518.5</ele>
+      </trkpt>
+      <trkpt lat="42.786926" lon="11.508751">
+        <ele>518.1</ele>
+      </trkpt>
+      <trkpt lat="42.786992" lon="11.508859">
+        <ele>517.7</ele>
+      </trkpt>
+      <trkpt lat="42.787065" lon="11.508972">
+        <ele>517.7</ele>
+      </trkpt>
+      <trkpt lat="42.787108" lon="11.509079">
+        <ele>517.6</ele>
+      </trkpt>
+      <trkpt lat="42.787144" lon="11.509202">
+        <ele>516.8</ele>
+      </trkpt>
+      <trkpt lat="42.787148" lon="11.50934">
+        <ele>515.4</ele>
+      </trkpt>
+      <trkpt lat="42.787138" lon="11.509458">
+        <ele>514.0</ele>
+      </trkpt>
+      <trkpt lat="42.787107" lon="11.509568">
+        <ele>512.0</ele>
+      </trkpt>
+      <trkpt lat="42.787027" lon="11.509736">
+        <ele>509.0</ele>
+      </trkpt>
+      <trkpt lat="42.786973" lon="11.509821">
+        <ele>510.2</ele>
+        <name>Via Fontanella 11, 58053 Roccalbegna Toscana</name>
+        <extensions>
+          <oa:locType>routingNode</oa:locType>
+          <oa:address>{
+  &quot;administrativeArea&quot; : &quot;Toscana&quot;,
+  &quot;country&quot; : &quot;Italia&quot;,
+  &quot;streetAddress&quot; : &quot;Via Fontanella 11&quot;,
+  &quot;subAdministrativeArea&quot; : &quot;Provincia di Grosseto&quot;,
+  &quot;town&quot; : &quot;Roccalbegna&quot;,
+  &quot;zipcode&quot; : &quot;58053&quot;
+}</oa:address>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
