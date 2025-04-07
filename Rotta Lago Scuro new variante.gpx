@@ -1,0 +1,1532 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="MapSource 6.13.7" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2008-05-04T22:49:27Z</time>
+    <bounds maxlat="50.9828840" maxlon="121.6402680" minlat="25.0617840" minlon="-94.7990180"/>
+  </metadata>
+
+  <wpt lat="44.5169000" lon="11.3430040">
+    <name>001</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.3669980" lon="11.8327850">
+    <name>002</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="42.5419734" lon="11.4996118">
+    <time>2008-05-04T22:04:34Z</time>
+    <name>152</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="42.5327800" lon="11.5026050">
+    <name>2° incrocio direzione Campigliola (foto)</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="42.5586470" lon="11.5155990">
+    <name>Attraversamento rivolo - poi breve salita</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="42.5639620" lon="11.5163690">
+    <name>Attrversamento rivolo - poi breve salita</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="42.8590330" lon="13.5625840">
+    <name>Auto Ap</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="42.8551300" lon="13.5772280">
+    <name>Benfatti Ap</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="42.8634080" lon="11.0118450">
+    <name>Bozzone Marocchi</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.2212240" lon="11.7649320">
+    <name>Brisighella</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.5169020" lon="11.3430050">
+    <name>CASA</name>
+    <sym>Residence</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="42.5890720" lon="11.5109720">
+    <name>Casa Manciano</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="43.1001850" lon="12.3610430">
+    <name>Fiamma Perugia</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.8555500" lon="-94.7990180">
+    <name>Garmin</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.9828840" lon="-1.4639000">
+    <name>Garmin Europe</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="25.0617840" lon="121.6402680">
+    <name>Garmin Taiwan</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="42.9299560" lon="10.5183000">
+    <name>Giancarlo Piombino</name>
+    <cmt>Via Rinuccio Bianchi Bandinelli 1
+57025 Piombino, LI</cmt>
+    <desc>Via Rinuccio Bianchi Bandinelli 1
+57025 Piombino, LI</desc>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="42.5812510" lon="11.5132670">
+    <name>Incrocio - mantenersi a destra</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="42.5779280" lon="11.5101390">
+    <name>Incrocio - Mantenersi a sinistra</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="42.5359020" lon="11.5013440">
+    <name>Incrocio  Paglieto direzione Campigliola</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="42.5572940" lon="11.5226100">
+    <name>Incrocio Fontaniletto Fanfani -SP67</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="42.5388270" lon="11.4964700">
+    <name>Incrocio Poggio Foco - Pian di Menta -  Capriola</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="42.5267670" lon="11.5161150">
+    <name>Incrocio SP67 -  Poggio Foco</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="42.5617530" lon="11.5150330">
+    <name>Lago Scuro</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.5043030" lon="11.3672750">
+    <name>Lavoro</name>
+    <cmt>Via Ferruccio Garavaglia
+40127 Bologna, BO</cmt>
+    <desc>Via Ferruccio Garavaglia
+40127 Bologna, BO</desc>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.3854090" lon="12.3185430">
+    <name>Lido Di Dante</name>
+    <cmt>Viale Paolo E Francesca
+48100 Lido Di Dante, RA</cmt>
+    <desc>Viale Paolo E Francesca
+48100 Lido Di Dante, RA</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="42.8548660" lon="13.5780420">
+    <name>Macchina Ap</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="42.5803640" lon="11.5101970">
+    <name>Mantenersi a sinistra</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.5039960" lon="11.6366530">
+    <name>Massimo Petrelli</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="42.5479870" lon="11.5253060">
+    <name>Percorso educazione Ambiente e pesca Elsa</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="42.6026570" lon="11.5997380">
+    <name>Poggio Rota Stones</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="42.5409740" lon="11.4978440">
+    <name>Ponticello dopo discesa con 2° curva a dx)</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="42.5703770" lon="11.5149370">
+    <name>Proseguire dritto (in discesa)</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.5205000" lon="11.6469170">
+    <name>Radiotelescopio Medicina</name>
+    <cmt>N 44°31.230'
+E011°38.815'</cmt>
+    <desc>N 44°31.230'
+E011°38.815'</desc>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="43.0320760" lon="10.5291020">
+    <name>Spiaggia La Torraccia Li</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="42.8767780" lon="11.6790000">
+    <name>Stonehenge Pitigliano</name>
+    <cmt>N 42°52.607'
+E011°40.740'</cmt>
+    <desc>N 42°52.607'
+E011°40.740'</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="42.5541860" lon="11.5112990">
+    <name>X 1°- 2°</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="42.5528560" lon="11.5103240">
+    <name>x Mulino Elsa</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="42.5409810" lon="11.4978470">
+    <name>X Pgg-</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <rte>
+    <name>Da StradaComunaleD a 152</name>
+    <extensions>
+      <gpxx:RouteExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:IsAutoNamed>true</gpxx:IsAutoNamed>
+      </gpxx:RouteExtension>
+    </extensions>
+    <rtept lat="42.5883722" lon="11.5186930">
+      <time>2008-05-04T11:31:18Z</time>
+      <name>StradaComunaleD</name>
+      <cmt>Strada Comunale Di Circonvallazione e Piazza Della Pace</cmt>
+      <desc>Strada Comunale Di Circonvallazione e Piazza Della Pace</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0320a52051007920200d0f1e0800fa48ea30</gpxx:Subclass>
+          <gpxx:rpt lat="42.5883722" lon="11.5186930">
+            <gpxx:Subclass>0300a52051006663250021160000fd000000</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5883722" lon="11.5186930">
+            <gpxx:Subclass>0600a5205100d50d19001f002d00d91a0e00</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5881147" lon="11.5184784">
+            <gpxx:Subclass>0600a52051001e1719001f002d00ca1a1800</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5878572" lon="11.5181351"/>
+          <gpxx:rpt lat="42.5877285" lon="11.5180063">
+            <gpxx:Subclass>0600a5205100ae1919001f182d005319a400</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5875998" lon="11.5180063"/>
+          <gpxx:rpt lat="42.5873852" lon="11.5178347"/>
+          <gpxx:rpt lat="42.5870419" lon="11.5176201"/>
+          <gpxx:rpt lat="42.5868702" lon="11.5174913"/>
+          <gpxx:rpt lat="42.5865269" lon="11.5169764"/>
+          <gpxx:rpt lat="42.5860548" lon="11.5165472"/>
+          <gpxx:rpt lat="42.5857973" lon="11.5161610"/>
+          <gpxx:rpt lat="42.5857973" lon="11.5161610"/>
+          <gpxx:rpt lat="42.5852823" lon="11.5155602"/>
+          <gpxx:rpt lat="42.5852394" lon="11.5153027"/>
+          <gpxx:rpt lat="42.5852394" lon="11.5150023">
+            <gpxx:Subclass>0600a5205100b71f18001f062a0035ea6c00</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5847244" lon="11.5150023"/>
+          <gpxx:rpt lat="42.5841665" lon="11.5149164"/>
+          <gpxx:rpt lat="42.5835228" lon="11.5146589"/>
+          <gpxx:rpt lat="42.5830078" lon="11.5144444">
+            <gpxx:Subclass>0600a52051009c1f18001f002a005aea3c00</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5828362" lon="11.5144444"/>
+          <gpxx:rpt lat="42.5821924" lon="11.5141439"/>
+          <gpxx:rpt lat="42.5818062" lon="11.5138435">
+            <gpxx:Subclass>0a00a5205100172018001f002a003beb1400</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5813942" lon="11.5136787">
+            <gpxx:Subclass>0a00a5205100172018002117000008000000</gpxx:Subclass>
+          </gpxx:rpt>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="42.5813943" lon="11.5136787">
+      <time>2008-05-04T11:31:26Z</time>
+      <name>ViaDelBivio</name>
+      <cmt>Via Del Bivio</cmt>
+      <desc>Via Del Bivio</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0a00a52051006120720c0d1e0800b4470030</gpxx:Subclass>
+          <gpxx:rpt lat="42.5813942" lon="11.5136787">
+            <gpxx:Subclass>0a00a5205100172018002116000008000800</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5813770" lon="11.5136719"/>
+          <gpxx:rpt lat="42.5812912" lon="11.5135002">
+            <gpxx:Subclass>0a00a5205100f72418001f022a002ceb8600</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5812912" lon="11.5125990"/>
+          <gpxx:rpt lat="42.5808191" lon="11.5120411"/>
+          <gpxx:rpt lat="42.5806904" lon="11.5117836"/>
+          <gpxx:rpt lat="42.5805187" lon="11.5109682"/>
+          <gpxx:rpt lat="42.5804329" lon="11.5100241"/>
+          <gpxx:rpt lat="42.5804329" lon="11.5100241">
+            <gpxx:Subclass>0a00a5205100d32418001f062a00f8ea7200</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5798750" lon="11.5101099"/>
+          <gpxx:rpt lat="42.5796175" lon="11.5101099"/>
+          <gpxx:rpt lat="42.5792742" lon="11.5099812"/>
+          <gpxx:rpt lat="42.5789738" lon="11.5099812"/>
+          <gpxx:rpt lat="42.5782013" lon="11.5100241"/>
+          <gpxx:rpt lat="42.5780296" lon="11.5101099">
+            <gpxx:Subclass>0a00a5205100d32418001f002a0005eb0500</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5779359" lon="11.5101646">
+            <gpxx:Subclass>0a00a5205100d32418002117000066070000</gpxx:Subclass>
+          </gpxx:rpt>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="42.5779280" lon="11.5101390">
+      <name>Incrocio - Mantenersi a sinistra</name>
+      <sym>Flag, Blue</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000ffffffffffffffffffffffff</gpxx:Subclass>
+          <gpxx:rpt lat="42.5779359" lon="11.5101646">
+            <gpxx:Subclass>0a00a5205100d32418002116000066079001</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5775146" lon="11.5104103"/>
+          <gpxx:rpt lat="42.5770426" lon="11.5107107"/>
+          <gpxx:rpt lat="42.5765705" lon="11.5107965"/>
+          <gpxx:rpt lat="42.5760984" lon="11.5113974"/>
+          <gpxx:rpt lat="42.5754976" lon="11.5120411"/>
+          <gpxx:rpt lat="42.5746822" lon="11.5130711"/>
+          <gpxx:rpt lat="42.5734377" lon="11.5140581"/>
+          <gpxx:rpt lat="42.5728798" lon="11.5145731"/>
+          <gpxx:rpt lat="42.5727510" lon="11.5146160"/>
+          <gpxx:rpt lat="42.5719357" lon="11.5146160"/>
+          <gpxx:rpt lat="42.5710773" lon="11.5149164"/>
+          <gpxx:rpt lat="42.5704336" lon="11.5149593">
+            <gpxx:Subclass>0a00a5205100d32418001f002a008beb4c03</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5700903" lon="11.5149593"/>
+          <gpxx:rpt lat="42.5690603" lon="11.5147448"/>
+          <gpxx:rpt lat="42.5684595" lon="11.5147877"/>
+          <gpxx:rpt lat="42.5675154" lon="11.5149593"/>
+          <gpxx:rpt lat="42.5668287" lon="11.5153027"/>
+          <gpxx:rpt lat="42.5658846" lon="11.5155602"/>
+          <gpxx:rpt lat="42.5647259" lon="11.5162897"/>
+          <gpxx:rpt lat="42.5647259" lon="11.5162897"/>
+          <gpxx:rpt lat="42.5643826" lon="11.5164185"/>
+          <gpxx:rpt lat="42.5641680" lon="11.5164185"/>
+          <gpxx:rpt lat="42.5640392" lon="11.5163326"/>
+          <gpxx:rpt lat="42.5636101" lon="11.5159035"/>
+          <gpxx:rpt lat="42.5630093" lon="11.5156889"/>
+          <gpxx:rpt lat="42.5630093" lon="11.5156889"/>
+          <gpxx:rpt lat="42.5617647" lon="11.5150023"/>
+          <gpxx:rpt lat="42.5612497" lon="11.5147448"/>
+          <gpxx:rpt lat="42.5609922" lon="11.5147018"/>
+          <gpxx:rpt lat="42.5604773" lon="11.5147018"/>
+          <gpxx:rpt lat="42.5596189" lon="11.5150452"/>
+          <gpxx:rpt lat="42.5594473" lon="11.5151310"/>
+          <gpxx:rpt lat="42.5591898" lon="11.5154314"/>
+          <gpxx:rpt lat="42.5590611" lon="11.5155172"/>
+          <gpxx:rpt lat="42.5588894" lon="11.5155602"/>
+          <gpxx:rpt lat="42.5578594" lon="11.5150881"/>
+          <gpxx:rpt lat="42.5574303" lon="11.5146589"/>
+          <gpxx:rpt lat="42.5572157" lon="11.5142298"/>
+          <gpxx:rpt lat="42.5568295" lon="11.5138006"/>
+          <gpxx:rpt lat="42.5553703" lon="11.5119553"/>
+          <gpxx:rpt lat="42.5544262" lon="11.5112257"/>
+          <gpxx:rpt lat="42.5541258" lon="11.5111399">
+            <gpxx:Subclass>0a00a5205100122618001f002a00abeb0000</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5541258" lon="11.5111399">
+            <gpxx:Subclass>0a00a5205100122618002117000000000000</gpxx:Subclass>
+          </gpxx:rpt>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="42.5541258" lon="11.5111399">
+      <time>2008-05-04T11:31:54Z</time>
+      <name>Stradanonasfal1</name>
+      <cmt>Strada non asfaltata</cmt>
+      <desc>Strada non asfaltata</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0a40a52051000f20730c0f1e0800be428a2f</gpxx:Subclass>
+          <gpxx:rpt lat="42.5541258" lon="11.5111399">
+            <gpxx:Subclass>0a00a5205100122618002116000000000000</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5541258" lon="11.5111399">
+            <gpxx:Subclass>0a00a5205100d32418001f002a00abeb0e02</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5528812" lon="11.5102816"/>
+          <gpxx:rpt lat="42.5519371" lon="11.5095949"/>
+          <gpxx:rpt lat="42.5507784" lon="11.5088654"/>
+          <gpxx:rpt lat="42.5491905" lon="11.5079641"/>
+          <gpxx:rpt lat="42.5488472" lon="11.5076637"/>
+          <gpxx:rpt lat="42.5481606" lon="11.5069342"/>
+          <gpxx:rpt lat="42.5472164" lon="11.5059900"/>
+          <gpxx:rpt lat="42.5469160" lon="11.5056467"/>
+          <gpxx:rpt lat="42.5449419" lon="11.5026426">
+            <gpxx:Subclass>0a00a5205100d32418001f002a00c8eb1800</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5445946" lon="11.5021218">
+            <gpxx:Subclass>0a00a5205100d32418002117000067000000</gpxx:Subclass>
+          </gpxx:rpt>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="42.5445947" lon="11.5021219">
+      <time>2008-05-04T22:01:03Z</time>
+      <name>Stradanonasfal2</name>
+      <cmt>Strada non asfaltata</cmt>
+      <desc>Strada non asfaltata</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0a00a52051001220730c0d1e08000141e52d</gpxx:Subclass>
+          <gpxx:rpt lat="42.5445946" lon="11.5021218">
+            <gpxx:Subclass>0a00a5205100d32418002116000067000000</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5439978" lon="11.5012264"/>
+          <gpxx:rpt lat="42.5439234" lon="11.5011634">
+            <gpxx:Subclass>0a00a5205100d32418002117000039000000</gpxx:Subclass>
+          </gpxx:rpt>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="42.5439234" lon="11.5011634">
+      <time>2008-05-04T22:02:05Z</time>
+      <name>Stradanonasfal3</name>
+      <cmt>Strada non asfaltata</cmt>
+      <desc>Strada non asfaltata</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0a00a52051001220730c0d1e0800e240b92d</gpxx:Subclass>
+          <gpxx:rpt lat="42.5439234" lon="11.5011634">
+            <gpxx:Subclass>0a00a5205100d32418002116000039000000</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5428954" lon="11.5002935">
+            <gpxx:Subclass>0a00a5205100d32418002117000001000000</gpxx:Subclass>
+          </gpxx:rpt>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="42.5428955" lon="11.5002936">
+      <time>2008-05-04T22:03:19Z</time>
+      <name>Stradanonasfal4</name>
+      <cmt>Strada non asfaltata</cmt>
+      <desc>Strada non asfaltata</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0a00a52051001220730c0d1e0800b240902d</gpxx:Subclass>
+          <gpxx:rpt lat="42.5428954" lon="11.5002935">
+            <gpxx:Subclass>0a00a5205100d32418002116000001000000</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5428820" lon="11.5002823">
+            <gpxx:Subclass>0a00a5205100d32418002117000000000000</gpxx:Subclass>
+          </gpxx:rpt>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="42.5419734" lon="11.4996118">
+      <time>2008-05-04T22:04:34Z</time>
+      <name>152</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000ffffffffffffffffffffffff</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+  </rte>
+
+  <rte>
+    <name>Da StradaComunaleD a StradaVicinaleD</name>
+    <extensions>
+      <gpxx:RouteExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:IsAutoNamed>true</gpxx:IsAutoNamed>
+      </gpxx:RouteExtension>
+    </extensions>
+    <rtept lat="42.5883722" lon="11.5186930">
+      <time>2008-05-04T11:31:18Z</time>
+      <name>StradaComunaleD</name>
+      <cmt>Strada Comunale Di Circonvallazione e Piazza Della Pace</cmt>
+      <desc>Strada Comunale Di Circonvallazione e Piazza Della Pace</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0320a52051007920200d0f1e0800fa48ea30</gpxx:Subclass>
+          <gpxx:rpt lat="42.5883722" lon="11.5186930">
+            <gpxx:Subclass>0300a52051006663250021160000fd000000</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5883722" lon="11.5186930">
+            <gpxx:Subclass>0600a5205100d50d19001f002d00d91a0e00</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5881147" lon="11.5184784">
+            <gpxx:Subclass>0600a52051001e1719001f002d00ca1a1800</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5878572" lon="11.5181351"/>
+          <gpxx:rpt lat="42.5877285" lon="11.5180063">
+            <gpxx:Subclass>0600a5205100ae1919001f182d005319a400</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5875998" lon="11.5180063"/>
+          <gpxx:rpt lat="42.5873852" lon="11.5178347"/>
+          <gpxx:rpt lat="42.5870419" lon="11.5176201"/>
+          <gpxx:rpt lat="42.5868702" lon="11.5174913"/>
+          <gpxx:rpt lat="42.5865269" lon="11.5169764"/>
+          <gpxx:rpt lat="42.5860548" lon="11.5165472"/>
+          <gpxx:rpt lat="42.5857973" lon="11.5161610"/>
+          <gpxx:rpt lat="42.5857973" lon="11.5161610"/>
+          <gpxx:rpt lat="42.5852823" lon="11.5155602"/>
+          <gpxx:rpt lat="42.5852394" lon="11.5153027"/>
+          <gpxx:rpt lat="42.5852394" lon="11.5150023">
+            <gpxx:Subclass>0600a5205100b71f18001f002a0035ea0000</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5852394" lon="11.5150023">
+            <gpxx:Subclass>0600a5205100b71f1800211700006b000000</gpxx:Subclass>
+          </gpxx:rpt>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="42.5852394" lon="11.5150023">
+      <time>2008-05-04T11:31:22Z</time>
+      <name>ViaDelBivioeVia</name>
+      <cmt>Via Del Bivio e Via Del Mattatoio e Via Circonvallazione Sud</cmt>
+      <desc>Via Del Bivio e Via Del Mattatoio e Via Circonvallazione Sud</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0620a52051003b20720c0f1e080068483e30</gpxx:Subclass>
+          <gpxx:rpt lat="42.5852394" lon="11.5150023">
+            <gpxx:Subclass>0600a5205100b71f1800211600006b000000</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5852394" lon="11.5150023">
+            <gpxx:Subclass>0600a5205100b71f18001f062a0035ea6c00</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5847244" lon="11.5150023"/>
+          <gpxx:rpt lat="42.5841665" lon="11.5149164"/>
+          <gpxx:rpt lat="42.5835228" lon="11.5146589"/>
+          <gpxx:rpt lat="42.5830078" lon="11.5144444">
+            <gpxx:Subclass>0600a52051009c1f18001f002a005aea3c00</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5828362" lon="11.5144444"/>
+          <gpxx:rpt lat="42.5821924" lon="11.5141439"/>
+          <gpxx:rpt lat="42.5818062" lon="11.5138435">
+            <gpxx:Subclass>0a00a5205100172018001f002a003beb1400</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5813942" lon="11.5136787">
+            <gpxx:Subclass>0a00a5205100172018002117000008000000</gpxx:Subclass>
+          </gpxx:rpt>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="42.5813943" lon="11.5136787">
+      <time>2008-05-04T11:31:26Z</time>
+      <name>ViaDelBivio</name>
+      <cmt>Via Del Bivio</cmt>
+      <desc>Via Del Bivio</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0a00a52051006120720c0d1e0800b4470030</gpxx:Subclass>
+          <gpxx:rpt lat="42.5813942" lon="11.5136787">
+            <gpxx:Subclass>0a00a5205100172018002116000008000800</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5813770" lon="11.5136719"/>
+          <gpxx:rpt lat="42.5812912" lon="11.5135002">
+            <gpxx:Subclass>0a00a5205100f72418001f022a002ceb8600</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5812912" lon="11.5125990"/>
+          <gpxx:rpt lat="42.5808191" lon="11.5120411"/>
+          <gpxx:rpt lat="42.5806904" lon="11.5117836"/>
+          <gpxx:rpt lat="42.5805187" lon="11.5109682"/>
+          <gpxx:rpt lat="42.5804329" lon="11.5100241"/>
+          <gpxx:rpt lat="42.5804329" lon="11.5100241">
+            <gpxx:Subclass>0a00a5205100f72418001f002a00f8ea0000</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5804329" lon="11.5100241"/>
+          <gpxx:rpt lat="42.5804329" lon="11.5100241">
+            <gpxx:Subclass>0a00a5205100f7241800211700006c000000</gpxx:Subclass>
+          </gpxx:rpt>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="42.5804329" lon="11.5100241">
+      <time>2008-05-04T11:31:35Z</time>
+      <name>StradaVicinaleD</name>
+      <cmt>Strada Vicinale Delle Pozze e Strada non asfaltata</cmt>
+      <desc>Strada Vicinale Delle Pozze e Strada non asfaltata</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0a40a52051006320720c0f1e08008847562f</gpxx:Subclass>
+          <gpxx:rpt lat="42.5804329" lon="11.5100241">
+            <gpxx:Subclass>0a00a5205100f7241800211600006c000000</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5804329" lon="11.5100241"/>
+          <gpxx:rpt lat="42.5804329" lon="11.5100241">
+            <gpxx:Subclass>0a00a5205100d32418001f062a00f8ea7200</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5798750" lon="11.5101099"/>
+          <gpxx:rpt lat="42.5796175" lon="11.5101099"/>
+          <gpxx:rpt lat="42.5792742" lon="11.5099812"/>
+          <gpxx:rpt lat="42.5789738" lon="11.5099812"/>
+          <gpxx:rpt lat="42.5782013" lon="11.5100241"/>
+          <gpxx:rpt lat="42.5780296" lon="11.5101099">
+            <gpxx:Subclass>0a00a5205100352018001f002a0005eb0000</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5780296" lon="11.5101099">
+            <gpxx:Subclass>0a00a5205100352018002117000084000000</gpxx:Subclass>
+          </gpxx:rpt>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="42.5780296" lon="11.5101099">
+      <time>2008-05-04T11:31:40Z</time>
+      <name>Stradanonasfalt</name>
+      <cmt>Strada non asfaltata</cmt>
+      <desc>Strada non asfaltata</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0a20a52051001920730c0f1e080018475a2f</gpxx:Subclass>
+          <gpxx:rpt lat="42.5780296" lon="11.5101099">
+            <gpxx:Subclass>0a00a5205100352018002116000084000000</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5780296" lon="11.5101099">
+            <gpxx:Subclass>0a00a5205100d32418001f002a0005ebe004</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5775146" lon="11.5104103"/>
+          <gpxx:rpt lat="42.5770426" lon="11.5107107"/>
+          <gpxx:rpt lat="42.5765705" lon="11.5107965"/>
+          <gpxx:rpt lat="42.5760984" lon="11.5113974"/>
+          <gpxx:rpt lat="42.5754976" lon="11.5120411"/>
+          <gpxx:rpt lat="42.5746822" lon="11.5130711"/>
+          <gpxx:rpt lat="42.5734377" lon="11.5140581"/>
+          <gpxx:rpt lat="42.5728798" lon="11.5145731"/>
+          <gpxx:rpt lat="42.5727510" lon="11.5146160"/>
+          <gpxx:rpt lat="42.5719357" lon="11.5146160"/>
+          <gpxx:rpt lat="42.5710773" lon="11.5149164"/>
+          <gpxx:rpt lat="42.5704336" lon="11.5149593"/>
+          <gpxx:rpt lat="42.5700903" lon="11.5149593"/>
+          <gpxx:rpt lat="42.5690603" lon="11.5147448"/>
+          <gpxx:rpt lat="42.5684595" lon="11.5147877"/>
+          <gpxx:rpt lat="42.5675154" lon="11.5149593"/>
+          <gpxx:rpt lat="42.5668287" lon="11.5153027"/>
+          <gpxx:rpt lat="42.5658846" lon="11.5155602"/>
+          <gpxx:rpt lat="42.5647259" lon="11.5162897"/>
+          <gpxx:rpt lat="42.5647259" lon="11.5162897"/>
+          <gpxx:rpt lat="42.5643826" lon="11.5164185"/>
+          <gpxx:rpt lat="42.5641680" lon="11.5164185"/>
+          <gpxx:rpt lat="42.5640392" lon="11.5163326"/>
+          <gpxx:rpt lat="42.5636101" lon="11.5159035"/>
+          <gpxx:rpt lat="42.5630093" lon="11.5156889"/>
+          <gpxx:rpt lat="42.5630093" lon="11.5156889"/>
+          <gpxx:rpt lat="42.5617647" lon="11.5150023"/>
+          <gpxx:rpt lat="42.5612497" lon="11.5147448"/>
+          <gpxx:rpt lat="42.5609922" lon="11.5147018"/>
+          <gpxx:rpt lat="42.5604773" lon="11.5147018"/>
+          <gpxx:rpt lat="42.5596189" lon="11.5150452"/>
+          <gpxx:rpt lat="42.5594473" lon="11.5151310"/>
+          <gpxx:rpt lat="42.5591898" lon="11.5154314"/>
+          <gpxx:rpt lat="42.5590611" lon="11.5155172"/>
+          <gpxx:rpt lat="42.5588894" lon="11.5155602"/>
+          <gpxx:rpt lat="42.5578594" lon="11.5150881"/>
+          <gpxx:rpt lat="42.5574303" lon="11.5146589"/>
+          <gpxx:rpt lat="42.5572157" lon="11.5142298"/>
+          <gpxx:rpt lat="42.5568295" lon="11.5138006"/>
+          <gpxx:rpt lat="42.5553703" lon="11.5119553"/>
+          <gpxx:rpt lat="42.5544262" lon="11.5112257"/>
+          <gpxx:rpt lat="42.5541258" lon="11.5111399">
+            <gpxx:Subclass>0a00a5205100122618001f002a00abeb0000</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5541258" lon="11.5111399">
+            <gpxx:Subclass>0a00a5205100122618002117000000000000</gpxx:Subclass>
+          </gpxx:rpt>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="42.5541258" lon="11.5111399">
+      <time>2008-05-04T11:31:54Z</time>
+      <name>Stradanonasfal1</name>
+      <cmt>Strada non asfaltata</cmt>
+      <desc>Strada non asfaltata</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0a40a52051000f20730c0f1e0800be428a2f</gpxx:Subclass>
+          <gpxx:rpt lat="42.5541258" lon="11.5111399">
+            <gpxx:Subclass>0a00a5205100122618002116000000000000</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5541258" lon="11.5111399">
+            <gpxx:Subclass>0a00a5205100122618001f062a00abebd401</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5547695" lon="11.5131998"/>
+          <gpxx:rpt lat="42.5546408" lon="11.5157318"/>
+          <gpxx:rpt lat="42.5547266" lon="11.5180063"/>
+          <gpxx:rpt lat="42.5547266" lon="11.5180063"/>
+          <gpxx:rpt lat="42.5548553" lon="11.5184784"/>
+          <gpxx:rpt lat="42.5551987" lon="11.5192080"/>
+          <gpxx:rpt lat="42.5574732" lon="11.5222549"/>
+          <gpxx:rpt lat="42.5576019" lon="11.5224266"/>
+          <gpxx:rpt lat="42.5578594" lon="11.5228987">
+            <gpxx:Subclass>0500a52051004f0720001f002d0026150000</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5578594" lon="11.5228987">
+            <gpxx:Subclass>0500a52051004f07200021170000d71e0000</gpxx:Subclass>
+          </gpxx:rpt>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="42.5578594" lon="11.5228987">
+      <time>2008-05-04T11:31:58Z</time>
+      <name>StradaProvincia</name>
+      <cmt>Strada Provinciale Campigliola e Strada non asfaltata</cmt>
+      <desc>Strada Provinciale Campigliola e Strada non asfaltata</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0540a520510017201f0d0f1e08006c43ae31</gpxx:Subclass>
+          <gpxx:rpt lat="42.5578594" lon="11.5228987">
+            <gpxx:Subclass>0500a52051004f07200021160000d71e0000</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5578594" lon="11.5228987">
+            <gpxx:Subclass>0500a52051004f0720001f002d0026152a03</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5591469" lon="11.5236282"/>
+          <gpxx:rpt lat="42.5604343" lon="11.5244865"/>
+          <gpxx:rpt lat="42.5610781" lon="11.5251303"/>
+          <gpxx:rpt lat="42.5616360" lon="11.5255594"/>
+          <gpxx:rpt lat="42.5619364" lon="11.5256882"/>
+          <gpxx:rpt lat="42.5632668" lon="11.5260744"/>
+          <gpxx:rpt lat="42.5637388" lon="11.5263319"/>
+          <gpxx:rpt lat="42.5639963" lon="11.5267181"/>
+          <gpxx:rpt lat="42.5657129" lon="11.5307093"/>
+          <gpxx:rpt lat="42.5659704" lon="11.5312243"/>
+          <gpxx:rpt lat="42.5662708" lon="11.5314817"/>
+          <gpxx:rpt lat="42.5688457" lon="11.5320826"/>
+          <gpxx:rpt lat="42.5690603" lon="11.5322542"/>
+          <gpxx:rpt lat="42.5691891" lon="11.5324259"/>
+          <gpxx:rpt lat="42.5693178" lon="11.5327692"/>
+          <gpxx:rpt lat="42.5697899" lon="11.5342283"/>
+          <gpxx:rpt lat="42.5699615" lon="11.5344858"/>
+          <gpxx:rpt lat="42.5703907" lon="11.5348721"/>
+          <gpxx:rpt lat="42.5712490" lon="11.5357304">
+            <gpxx:Subclass>0500a5205100bd1320001f0034002ef71400</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5715923" lon="11.5360737">
+            <gpxx:Subclass>0500a5205100891320001f06340093f71200</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5717640" lon="11.5359879"/>
+          <gpxx:rpt lat="42.5718069" lon="11.5357304">
+            <gpxx:Subclass>0500a52051000c2120001f063400aff71600</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5717211" lon="11.5356016"/>
+          <gpxx:rpt lat="42.5715494" lon="11.5351725">
+            <gpxx:Subclass>0500a5205100120f20001f003400cff7fa02</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5709915" lon="11.5347004"/>
+          <gpxx:rpt lat="42.5708199" lon="11.5344429"/>
+          <gpxx:rpt lat="42.5706482" lon="11.5340996"/>
+          <gpxx:rpt lat="42.5705624" lon="11.5337992"/>
+          <gpxx:rpt lat="42.5705624" lon="11.5336275"/>
+          <gpxx:rpt lat="42.5706053" lon="11.5333700"/>
+          <gpxx:rpt lat="42.5709486" lon="11.5329409"/>
+          <gpxx:rpt lat="42.5714636" lon="11.5325117"/>
+          <gpxx:rpt lat="42.5717211" lon="11.5324259"/>
+          <gpxx:rpt lat="42.5732660" lon="11.5320826"/>
+          <gpxx:rpt lat="42.5734806" lon="11.5319967"/>
+          <gpxx:rpt lat="42.5736523" lon="11.5316963"/>
+          <gpxx:rpt lat="42.5741243" lon="11.5293789"/>
+          <gpxx:rpt lat="42.5742531" lon="11.5289497"/>
+          <gpxx:rpt lat="42.5745964" lon="11.5283060"/>
+          <gpxx:rpt lat="42.5748110" lon="11.5280914"/>
+          <gpxx:rpt lat="42.5751114" lon="11.5279198"/>
+          <gpxx:rpt lat="42.5762272" lon="11.5278339"/>
+          <gpxx:rpt lat="42.5764418" lon="11.5278339"/>
+          <gpxx:rpt lat="42.5773001" lon="11.5281343"/>
+          <gpxx:rpt lat="42.5775576" lon="11.5280485"/>
+          <gpxx:rpt lat="42.5779438" lon="11.5276623"/>
+          <gpxx:rpt lat="42.5780725" lon="11.5276194"/>
+          <gpxx:rpt lat="42.5785446" lon="11.5277910"/>
+          <gpxx:rpt lat="42.5793600" lon="11.5276623"/>
+          <gpxx:rpt lat="42.5800896" lon="11.5278769"/>
+          <gpxx:rpt lat="42.5802612" lon="11.5278769"/>
+          <gpxx:rpt lat="42.5803471" lon="11.5278339"/>
+          <gpxx:rpt lat="42.5814629" lon="11.5267611"/>
+          <gpxx:rpt lat="42.5818062" lon="11.5262890"/>
+          <gpxx:rpt lat="42.5822353" lon="11.5258598">
+            <gpxx:Subclass>0500a5205100481120001f003400e5f73400</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5830078" lon="11.5258169"/>
+          <gpxx:rpt lat="42.5833511" lon="11.5256882">
+            <gpxx:Subclass>0500a5205100d50c20001f00340036f85800</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5834370" lon="11.5255594"/>
+          <gpxx:rpt lat="42.5840378" lon="11.5249586"/>
+          <gpxx:rpt lat="42.5844240" lon="11.5244436"/>
+          <gpxx:rpt lat="42.5847244" lon="11.5238857">
+            <gpxx:Subclass>0600a5205100560e19001f19340044f80000</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5847244" lon="11.5238857">
+            <gpxx:Subclass>0600a5205100560e190021170000f1000000</gpxx:Subclass>
+          </gpxx:rpt>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="42.5847244" lon="11.5238857">
+      <time>2008-05-04T11:32:55Z</time>
+      <name>ViaAntonioGrams</name>
+      <cmt>Via Antonio Gramsci e Via Martiri Della Libertà</cmt>
+      <desc>Via Antonio Gramsci e Via Martiri Della Libertà</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0540a52051007220200d0f1e08005048dc31</gpxx:Subclass>
+          <gpxx:rpt lat="42.5847244" lon="11.5238857">
+            <gpxx:Subclass>0600a5205100560e190021160000f1000000</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5847244" lon="11.5238857">
+            <gpxx:Subclass>0500a5205100d50c20001f01340044f85401</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5851107" lon="11.5230274"/>
+          <gpxx:rpt lat="42.5852823" lon="11.5222979"/>
+          <gpxx:rpt lat="42.5854111" lon="11.5217400"/>
+          <gpxx:rpt lat="42.5853682" lon="11.5215683"/>
+          <gpxx:rpt lat="42.5852823" lon="11.5213537"/>
+          <gpxx:rpt lat="42.5847673" lon="11.5205812"/>
+          <gpxx:rpt lat="42.5845957" lon="11.5202808"/>
+          <gpxx:rpt lat="42.5845528" lon="11.5201092"/>
+          <gpxx:rpt lat="42.5846386" lon="11.5197229"/>
+          <gpxx:rpt lat="42.5847244" lon="11.5195942"/>
+          <gpxx:rpt lat="42.5848961" lon="11.5195084"/>
+          <gpxx:rpt lat="42.5858402" lon="11.5195942"/>
+          <gpxx:rpt lat="42.5874281" lon="11.5198088"/>
+          <gpxx:rpt lat="42.5877285" lon="11.5196800"/>
+          <gpxx:rpt lat="42.5882435" lon="11.5192938">
+            <gpxx:Subclass>0500a52051007a0c20001f00340069f80000</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5882435" lon="11.5192938">
+            <gpxx:Subclass>0500a52051007a0c20002117000014000000</gpxx:Subclass>
+          </gpxx:rpt>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="42.5882435" lon="11.5192938">
+      <time>2008-05-04T11:33:23Z</time>
+      <name>StradaeViaAnton</name>
+      <cmt>Strada e Via Antonio Gramsci</cmt>
+      <desc>Strada e Via Antonio Gramsci</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0520a52051007120200d0f1e0800f4480631</gpxx:Subclass>
+          <gpxx:rpt lat="42.5882435" lon="11.5192938">
+            <gpxx:Subclass>0500a52051007a0c20002116000014000000</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5882435" lon="11.5192938">
+            <gpxx:Subclass>0500a52051007a0c20001f02340069f80e00</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5882864" lon="11.5193796"/>
+          <gpxx:rpt lat="42.5883293" lon="11.5193367"/>
+          <gpxx:rpt lat="42.5883722" lon="11.5193796"/>
+          <gpxx:rpt lat="42.5884581" lon="11.5192509">
+            <gpxx:Subclass>0500a5205100141720001f00340085f80600</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5885439" lon="11.5192080">
+            <gpxx:Subclass>0300a5205100666325001f063a00a35e1400</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5884151" lon="11.5189075"/>
+          <gpxx:rpt lat="42.5883722" lon="11.5186930">
+            <gpxx:Subclass>0600a5205100d50d19001f062d00d91a0e00</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5881147" lon="11.5184784">
+            <gpxx:Subclass>0600a52051001e1719001f002d00ca1a1800</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5878572" lon="11.5181351"/>
+          <gpxx:rpt lat="42.5877285" lon="11.5180063">
+            <gpxx:Subclass>0600a5205100ae1919001f182d005319a400</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5875998" lon="11.5180063"/>
+          <gpxx:rpt lat="42.5873852" lon="11.5178347"/>
+          <gpxx:rpt lat="42.5870419" lon="11.5176201"/>
+          <gpxx:rpt lat="42.5868702" lon="11.5174913"/>
+          <gpxx:rpt lat="42.5865269" lon="11.5169764"/>
+          <gpxx:rpt lat="42.5860548" lon="11.5165472"/>
+          <gpxx:rpt lat="42.5857973" lon="11.5161610"/>
+          <gpxx:rpt lat="42.5857973" lon="11.5161610"/>
+          <gpxx:rpt lat="42.5852823" lon="11.5155602"/>
+          <gpxx:rpt lat="42.5852394" lon="11.5153027"/>
+          <gpxx:rpt lat="42.5852394" lon="11.5150023">
+            <gpxx:Subclass>0600a5205100b71f18001f062a0035ea6c00</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5847244" lon="11.5150023"/>
+          <gpxx:rpt lat="42.5841665" lon="11.5149164"/>
+          <gpxx:rpt lat="42.5835228" lon="11.5146589"/>
+          <gpxx:rpt lat="42.5830078" lon="11.5144444">
+            <gpxx:Subclass>0600a52051009c1f18001f002a005aea3c00</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5828362" lon="11.5144444"/>
+          <gpxx:rpt lat="42.5821924" lon="11.5141439"/>
+          <gpxx:rpt lat="42.5818062" lon="11.5138435">
+            <gpxx:Subclass>0a00a5205100172018001f002a003beb1c00</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5813770" lon="11.5136719"/>
+          <gpxx:rpt lat="42.5812912" lon="11.5135002">
+            <gpxx:Subclass>0a00a5205100f72418001f022a002ceb8600</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5812912" lon="11.5125990"/>
+          <gpxx:rpt lat="42.5808191" lon="11.5120411"/>
+          <gpxx:rpt lat="42.5806904" lon="11.5117836"/>
+          <gpxx:rpt lat="42.5805187" lon="11.5109682"/>
+          <gpxx:rpt lat="42.5804329" lon="11.5100241"/>
+          <gpxx:rpt lat="42.5804329" lon="11.5100241">
+            <gpxx:Subclass>0a00a5205100f72418001f002a00f8ea0000</gpxx:Subclass>
+          </gpxx:rpt>
+          <gpxx:rpt lat="42.5804329" lon="11.5100241"/>
+          <gpxx:rpt lat="42.5804329" lon="11.5100241">
+            <gpxx:Subclass>0a00a5205100f7241800211700006c000000</gpxx:Subclass>
+          </gpxx:rpt>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="42.5804329" lon="11.5100241">
+      <time>2008-05-04T11:31:35Z</time>
+      <name>StradaVicinaleD</name>
+      <cmt>Strada Vicinale Delle Pozze e Strada non asfaltata</cmt>
+      <desc>Strada Vicinale Delle Pozze e Strada non asfaltata</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0a40a52051006320720c0f1e08008847562f</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+  </rte>
+
+  <trk>
+    <name>Percorso 002</name>
+    <extensions>
+      <gpxx:TrackExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayColor>White</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="42.5541583" lon="11.5110530"/>
+      <trkpt lat="42.5522719" lon="11.5098824"/>
+      <trkpt lat="42.5506010" lon="11.5087484"/>
+      <trkpt lat="42.5493883" lon="11.5080900"/>
+      <trkpt lat="42.5490110" lon="11.5077973"/>
+      <trkpt lat="42.5490110" lon="11.5078340"/>
+      <trkpt lat="42.5482295" lon="11.5070291"/>
+      <trkpt lat="42.5472054" lon="11.5060049"/>
+      <trkpt lat="42.5461274" lon="11.5043954"/>
+      <trkpt lat="42.5446182" lon="11.5020908"/>
+      <trkpt lat="42.5439175" lon="11.5011397"/>
+      <trkpt lat="42.5439175" lon="11.5011762"/>
+      <trkpt lat="42.5428934" lon="11.5002983"/>
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>Percorso 003</name>
+    <extensions>
+      <gpxx:TrackExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="42.5812889" lon="11.5125978"/>
+      <trkpt lat="42.5812935" lon="11.5125978"/>
+      <trkpt lat="42.5811272" lon="11.5124087"/>
+      <trkpt lat="42.5811318" lon="11.5124148"/>
+      <trkpt lat="42.5808128" lon="11.5120366"/>
+      <trkpt lat="42.5808218" lon="11.5120427"/>
+      <trkpt lat="42.5806871" lon="11.5117864"/>
+      <trkpt lat="42.5806871" lon="11.5117926"/>
+      <trkpt lat="42.5805165" lon="11.5109568"/>
+      <trkpt lat="42.5805209" lon="11.5109629"/>
+      <trkpt lat="42.5804356" lon="11.5100662"/>
+      <trkpt lat="42.5804246" lon="11.5100376"/>
+      <trkpt lat="42.5802854" lon="11.5100436"/>
+      <trkpt lat="42.5802899" lon="11.5100436"/>
+      <trkpt lat="42.5799395" lon="11.5101107"/>
+      <trkpt lat="42.5799485" lon="11.5101107"/>
+      <trkpt lat="42.5796116" lon="11.5101169"/>
+      <trkpt lat="42.5792837" lon="11.5099827"/>
+      <trkpt lat="42.5789244" lon="11.5099887"/>
+      <trkpt lat="42.5787133" lon="11.5099948"/>
+      <trkpt lat="42.5784887" lon="11.5100131"/>
+      <trkpt lat="42.5784887" lon="11.5100192"/>
+      <trkpt lat="42.5782597" lon="11.5100131"/>
+      <trkpt lat="42.5781923" lon="11.5100376"/>
+      <trkpt lat="42.5781968" lon="11.5100376"/>
+      <trkpt lat="42.5780351" lon="11.5101169"/>
+      <trkpt lat="42.5770380" lon="11.5107085"/>
+      <trkpt lat="42.5765821" lon="11.5107955"/>
+      <trkpt lat="42.5765821" lon="11.5108016"/>
+      <trkpt lat="42.5760925" lon="11.5114115"/>
+      <trkpt lat="42.5760925" lon="11.5114176"/>
+      <trkpt lat="42.5755086" lon="11.5120337"/>
+      <trkpt lat="42.5746732" lon="11.5130828"/>
+      <trkpt lat="42.5734315" lon="11.5140729"/>
+      <trkpt lat="42.5729059" lon="11.5145547"/>
+      <trkpt lat="42.5729059" lon="11.5145609"/>
+      <trkpt lat="42.5727667" lon="11.5146218"/>
+      <trkpt lat="42.5719403" lon="11.5146218"/>
+      <trkpt lat="42.5719403" lon="11.5146279"/>
+      <trkpt lat="42.5711003" lon="11.5149085"/>
+      <trkpt lat="42.5711003" lon="11.5149146"/>
+      <trkpt lat="42.5708982" lon="11.5149329"/>
+      <trkpt lat="42.5708982" lon="11.5149390"/>
+      <trkpt lat="42.5704400" lon="11.5149564"/>
+      <trkpt lat="42.5700828" lon="11.5149650"/>
+      <trkpt lat="42.5690633" lon="11.5147515"/>
+      <trkpt lat="42.5686860" lon="11.5147759"/>
+      <trkpt lat="42.5685287" lon="11.5147881"/>
+      <trkpt lat="42.5685377" lon="11.5147881"/>
+      <trkpt lat="42.5684165" lon="11.5148003"/>
+      <trkpt lat="42.5675181" lon="11.5149588"/>
+      <trkpt lat="42.5675181" lon="11.5149650"/>
+      <trkpt lat="42.5668492" lon="11.5152998"/>
+      <trkpt lat="42.5658925" lon="11.5155681"/>
+      <trkpt lat="42.5647359" lon="11.5162839"/>
+      <trkpt lat="42.5644035" lon="11.5164059"/>
+      <trkpt lat="42.5644035" lon="11.5164120"/>
+      <trkpt lat="42.5641789" lon="11.5164242"/>
+      <trkpt lat="42.5640531" lon="11.5163449"/>
+      <trkpt lat="42.5636175" lon="11.5159181"/>
+      <trkpt lat="42.5629998" lon="11.5156821"/>
+      <trkpt lat="42.5623261" lon="11.5153101"/>
+      <trkpt lat="42.5619757" lon="11.5151210"/>
+      <trkpt lat="42.5616119" lon="11.5149320"/>
+      <trkpt lat="42.5616164" lon="11.5149320"/>
+      <trkpt lat="42.5612616" lon="11.5147430"/>
+      <trkpt lat="42.5612661" lon="11.5147430"/>
+      <trkpt lat="42.5610100" lon="11.5147003"/>
+      <trkpt lat="42.5604755" lon="11.5146942"/>
+      <trkpt lat="42.5598355" lon="11.5149589"/>
+      <trkpt lat="42.5598355" lon="11.5149528"/>
+      <trkpt lat="42.5594538" lon="11.5151297"/>
+      <trkpt lat="42.5592093" lon="11.5154125"/>
+      <trkpt lat="42.5590791" lon="11.5155101"/>
+      <trkpt lat="42.5588994" lon="11.5155589"/>
+      <trkpt lat="42.5578664" lon="11.5150955"/>
+      <trkpt lat="42.5578708" lon="11.5150955"/>
+      <trkpt lat="42.5574351" lon="11.5146564"/>
+      <trkpt lat="42.5574397" lon="11.5146564"/>
+      <trkpt lat="42.5574082" lon="11.5146198"/>
+      <trkpt lat="42.5572241" lon="11.5142600"/>
+      <trkpt lat="42.5571971" lon="11.5142113"/>
+      <trkpt lat="42.5567884" lon="11.5137661"/>
+      <trkpt lat="42.5565772" lon="11.5134735"/>
+      <trkpt lat="42.5563437" lon="11.5131929"/>
+      <trkpt lat="42.5553562" lon="11.5119496"/>
+      <trkpt lat="42.5544175" lon="11.5112239"/>
+      <trkpt lat="42.5541300" lon="11.5111325"/>
+      <trkpt lat="42.5541300" lon="11.5111386"/>
+      <trkpt lat="42.5547678" lon="11.5131934"/>
+      <trkpt lat="42.5547498" lon="11.5135898"/>
+      <trkpt lat="42.5547498" lon="11.5135898"/>
+      <trkpt lat="42.5547363" lon="11.5137788"/>
+      <trkpt lat="42.5546420" lon="11.5156934"/>
+      <trkpt lat="42.5546466" lon="11.5159007"/>
+      <trkpt lat="42.5547276" lon="11.5179859"/>
+      <trkpt lat="42.5547206" lon="11.5180185"/>
+      <trkpt lat="42.5548509" lon="11.5184697"/>
+      <trkpt lat="42.5551967" lon="11.5192137"/>
+      <trkpt lat="42.5576087" lon="11.5224454"/>
+      <trkpt lat="42.5578577" lon="11.5228993"/>
+      <trkpt lat="42.5591468" lon="11.5236371"/>
+      <trkpt lat="42.5603820" lon="11.5244481"/>
+      <trkpt lat="42.5604403" lon="11.5244898"/>
+      <trkpt lat="42.5610826" lon="11.5251362"/>
+      <trkpt lat="42.5616305" lon="11.5255570"/>
+      <trkpt lat="42.5619539" lon="11.5256972"/>
+      <trkpt lat="42.5626232" lon="11.5258863"/>
+      <trkpt lat="42.5632745" lon="11.5260815"/>
+      <trkpt lat="42.5637371" lon="11.5263376"/>
+      <trkpt lat="42.5640065" lon="11.5267279"/>
+      <trkpt lat="42.5640065" lon="11.5267340"/>
+      <trkpt lat="42.5649857" lon="11.5290253"/>
+      <trkpt lat="42.5656549" lon="11.5305744"/>
+      <trkpt lat="42.5659649" lon="11.5312269"/>
+      <trkpt lat="42.5662748" lon="11.5314807"/>
+      <trkpt lat="42.5662748" lon="11.5314868"/>
+      <trkpt lat="42.5672224" lon="11.5317063"/>
+      <trkpt lat="42.5672315" lon="11.5317002"/>
+      <trkpt lat="42.5675459" lon="11.5317856"/>
+      <trkpt lat="42.5676851" lon="11.5318100"/>
+      <trkpt lat="42.5688395" lon="11.5320844"/>
+      <trkpt lat="42.5690597" lon="11.5322490"/>
+      <trkpt lat="42.5690597" lon="11.5322551"/>
+      <trkpt lat="42.5692034" lon="11.5324442"/>
+      <trkpt lat="42.5693651" lon="11.5329077"/>
+      <trkpt lat="42.5695268" lon="11.5334139"/>
+      <trkpt lat="42.5695357" lon="11.5334139"/>
+      <trkpt lat="42.5696570" lon="11.5338347"/>
+      <trkpt lat="42.5697424" lon="11.5340787"/>
+      <trkpt lat="42.5697892" lon="11.5342336"/>
+      <trkpt lat="42.5699419" lon="11.5344593"/>
+      <trkpt lat="42.5699734" lon="11.5344898"/>
+      <trkpt lat="42.5702878" lon="11.5347825"/>
+      <trkpt lat="42.5702878" lon="11.5347887"/>
+      <trkpt lat="42.5704809" lon="11.5349594"/>
+      <trkpt lat="42.5706561" lon="11.5351424"/>
+      <trkpt lat="42.5712310" lon="11.5357157"/>
+      <trkpt lat="42.5712624" lon="11.5357401"/>
+      <trkpt lat="42.5715858" lon="11.5360755"/>
+      <trkpt lat="42.5717655" lon="11.5359962"/>
+      <trkpt lat="42.5718104" lon="11.5357340"/>
+      <trkpt lat="42.5717341" lon="11.5356120"/>
+      <trkpt lat="42.5715499" lon="11.5351668"/>
+      <trkpt lat="42.5709974" lon="11.5347032"/>
+      <trkpt lat="42.5708402" lon="11.5344776"/>
+      <trkpt lat="42.5706426" lon="11.5341055"/>
+      <trkpt lat="42.5705572" lon="11.5338006"/>
+      <trkpt lat="42.5705662" lon="11.5336115"/>
+      <trkpt lat="42.5706111" lon="11.5333615"/>
+      <trkpt lat="42.5709525" lon="11.5329346"/>
+      <trkpt lat="42.5714647" lon="11.5325192"/>
+      <trkpt lat="42.5714736" lon="11.5325192"/>
+      <trkpt lat="42.5717162" lon="11.5324276"/>
+      <trkpt lat="42.5721474" lon="11.5323362"/>
+      <trkpt lat="42.5725471" lon="11.5322385"/>
+      <trkpt lat="42.5732793" lon="11.5320739"/>
+      <trkpt lat="42.5732837" lon="11.5320739"/>
+      <trkpt lat="42.5734768" lon="11.5320068"/>
+      <trkpt lat="42.5736520" lon="11.5316897"/>
+      <trkpt lat="42.5736520" lon="11.5316775"/>
+      <trkpt lat="42.5738673" lon="11.5306219"/>
+      <trkpt lat="42.5738942" lon="11.5304939"/>
+      <trkpt lat="42.5739571" lon="11.5301767"/>
+      <trkpt lat="42.5741232" lon="11.5293776"/>
+      <trkpt lat="42.5742535" lon="11.5289507"/>
+      <trkpt lat="42.5745904" lon="11.5282980"/>
+      <trkpt lat="42.5748060" lon="11.5280968"/>
+      <trkpt lat="42.5751159" lon="11.5279199"/>
+      <trkpt lat="42.5764411" lon="11.5278338"/>
+      <trkpt lat="42.5773034" lon="11.5281444"/>
+      <trkpt lat="42.5775594" lon="11.5280468"/>
+      <trkpt lat="42.5779502" lon="11.5276625"/>
+      <trkpt lat="42.5779502" lon="11.5276686"/>
+      <trkpt lat="42.5780760" lon="11.5276259"/>
+      <trkpt lat="42.5780715" lon="11.5276259"/>
+      <trkpt lat="42.5785476" lon="11.5277967"/>
+      <trkpt lat="42.5793650" lon="11.5276564"/>
+      <trkpt lat="42.5793650" lon="11.5276625"/>
+      <trkpt lat="42.5800926" lon="11.5278818"/>
+      <trkpt lat="42.5802767" lon="11.5278757"/>
+      <trkpt lat="42.5803666" lon="11.5278269"/>
+      <trkpt lat="42.5813906" lon="11.5268326"/>
+      <trkpt lat="42.5813997" lon="11.5268326"/>
+      <trkpt lat="42.5814564" lon="11.5267671"/>
+      <trkpt lat="42.5818112" lon="11.5262791"/>
+      <trkpt lat="42.5822289" lon="11.5258520"/>
+      <trkpt lat="42.5822289" lon="11.5258582"/>
+      <trkpt lat="42.5828398" lon="11.5258215"/>
+      <trkpt lat="42.5830105" lon="11.5258155"/>
+      <trkpt lat="42.5833428" lon="11.5256873"/>
+      <trkpt lat="42.5833518" lon="11.5256873"/>
+      <trkpt lat="42.5834417" lon="11.5255531"/>
+      <trkpt lat="42.5834417" lon="11.5255593"/>
+      <trkpt lat="42.5840301" lon="11.5249675"/>
+      <trkpt lat="42.5844433" lon="11.5244124"/>
+      <trkpt lat="42.5847281" lon="11.5238652"/>
+      <trkpt lat="42.5850111" lon="11.5232308"/>
+      <trkpt lat="42.5851144" lon="11.5230294"/>
+      <trkpt lat="42.5853615" lon="11.5219557"/>
+      <trkpt lat="42.5854108" lon="11.5217422"/>
+      <trkpt lat="42.5853704" lon="11.5215775"/>
+      <trkpt lat="42.5852760" lon="11.5213518"/>
+      <trkpt lat="42.5849751" lon="11.5209003"/>
+      <trkpt lat="42.5847191" lon="11.5204977"/>
+      <trkpt lat="42.5846023" lon="11.5202781"/>
+      <trkpt lat="42.5845575" lon="11.5201072"/>
+      <trkpt lat="42.5846383" lon="11.5197291"/>
+      <trkpt lat="42.5847191" lon="11.5196009"/>
+      <trkpt lat="42.5847191" lon="11.5196070"/>
+      <trkpt lat="42.5848943" lon="11.5195095"/>
+      <trkpt lat="42.5858106" lon="11.5195887"/>
+      <trkpt lat="42.5874275" lon="11.5198145"/>
+      <trkpt lat="42.5877105" lon="11.5196924"/>
+      <trkpt lat="42.5877150" lon="11.5196924"/>
+      <trkpt lat="42.5882461" lon="11.5192940"/>
+      <trkpt lat="42.5882461" lon="11.5192940"/>
+      <trkpt lat="42.5882856" lon="11.5193745"/>
+      <trkpt lat="42.5883287" lon="11.5193379"/>
+      <trkpt lat="42.5883719" lon="11.5193794"/>
+      <trkpt lat="42.5884617" lon="11.5192476"/>
+      <trkpt lat="42.5885426" lon="11.5192085"/>
+      <trkpt lat="42.5885444" lon="11.5192085"/>
+      <trkpt lat="42.5884132" lon="11.5189108"/>
+      <trkpt lat="42.5884150" lon="11.5189108"/>
+      <trkpt lat="42.5883701" lon="11.5186912"/>
+      <trkpt lat="42.5881168" lon="11.5184838"/>
+      <trkpt lat="42.5879849" lon="11.5183045"/>
+      <trkpt lat="42.5878591" lon="11.5181361"/>
+      <trkpt lat="42.5877279" lon="11.5180067"/>
+      <trkpt lat="42.5877298" lon="11.5180067"/>
+      <trkpt lat="42.5875986" lon="11.5180043"/>
+      <trkpt lat="42.5873938" lon="11.5178408"/>
+      <trkpt lat="42.5873201" lon="11.5177944"/>
+      <trkpt lat="42.5872321" lon="11.5177408"/>
+      <trkpt lat="42.5868740" lon="11.5174950"/>
+      <trkpt lat="42.5867627" lon="11.5173292"/>
+      <trkpt lat="42.5865255" lon="11.5169704"/>
+      <trkpt lat="42.5860584" lon="11.5165532"/>
+      <trkpt lat="42.5857972" lon="11.5161610"/>
+      <trkpt lat="42.5852834" lon="11.5155633"/>
+      <trkpt lat="42.5852402" lon="11.5153070"/>
+      <trkpt lat="42.5852402" lon="11.5150044"/>
+      <trkpt lat="42.5847084" lon="11.5150041"/>
+      <trkpt lat="42.5844703" lon="11.5149632"/>
+      <trkpt lat="42.5841720" lon="11.5149193"/>
+      <trkpt lat="42.5841576" lon="11.5149168"/>
+      <trkpt lat="42.5834192" lon="11.5146143"/>
+      <trkpt lat="42.5830096" lon="11.5144478"/>
+      <trkpt lat="42.5828317" lon="11.5144454"/>
+      <trkpt lat="42.5821885" lon="11.5141425"/>
+      <trkpt lat="42.5818040" lon="11.5138424"/>
+      <trkpt lat="42.5813773" lon="11.5136743"/>
+      <trkpt lat="42.5812910" lon="11.5134986"/>
+      <trkpt lat="42.5812892" lon="11.5126007"/>
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>Percorso 006</name>
+    <extensions>
+      <gpxx:TrackExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayColor>White</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="42.5429204" lon="11.5002617"/>
+      <trkpt lat="42.5428934" lon="11.5002617"/>
+      <trkpt lat="42.5419771" lon="11.4996033"/>
+      <trkpt lat="42.5415999" lon="11.4991643"/>
+      <trkpt lat="42.5415999" lon="11.4992009"/>
+      <trkpt lat="42.5414651" lon="11.4985424"/>
+      <trkpt lat="42.5414382" lon="11.4985424"/>
+      <trkpt lat="42.5412765" lon="11.4977742"/>
+      <trkpt lat="42.5413034" lon="11.4978108"/>
+      <trkpt lat="42.5406028" lon="11.4971889"/>
+      <trkpt lat="42.5406297" lon="11.4971889"/>
+      <trkpt lat="42.5402794" lon="11.4966402"/>
+      <trkpt lat="42.5395787" lon="11.4958720"/>
+      <trkpt lat="42.5395518" lon="11.4958720"/>
+      <trkpt lat="42.5390397" lon="11.4956891"/>
+      <trkpt lat="42.5387162" lon="11.4961280"/>
+      <trkpt lat="42.5386893" lon="11.4961280"/>
+      <trkpt lat="42.5377055" lon="11.4990745"/>
+      <trkpt lat="42.5375168" lon="11.4998059"/>
+      <trkpt lat="42.5375437" lon="11.4998059"/>
+      <trkpt lat="42.5368161" lon="11.5007935"/>
+      <trkpt lat="42.5367892" lon="11.5007935"/>
+      <trkpt lat="42.5363580" lon="11.5010129"/>
+      <trkpt lat="42.5357382" lon="11.5010861"/>
+      <trkpt lat="42.5350374" lon="11.5014519"/>
+      <trkpt lat="42.5340133" lon="11.5021834"/>
+      <trkpt lat="42.5339864" lon="11.5021834"/>
+      <trkpt lat="42.5336361" lon="11.5023663"/>
+      <trkpt lat="42.5336091" lon="11.5023663"/>
+      <trkpt lat="42.5332857" lon="11.5023663"/>
+      <trkpt lat="42.5331779" lon="11.5023663"/>
+      <trkpt lat="42.5325850" lon="11.5023663"/>
+      <trkpt lat="42.5322617" lon="11.5030247"/>
+      <trkpt lat="42.5322617" lon="11.5030612"/>
+      <trkpt lat="42.5320191" lon="11.5039024"/>
+      <trkpt lat="42.5320191" lon="11.5039391"/>
+      <trkpt lat="42.5318574" lon="11.5052924"/>
+      <trkpt lat="42.5318304" lon="11.5053289"/>
+      <trkpt lat="42.5316418" lon="11.5063530"/>
+      <trkpt lat="42.5316418" lon="11.5066823"/>
+      <trkpt lat="42.5316148" lon="11.5068651"/>
+      <trkpt lat="42.5310220" lon="11.5078893"/>
+      <trkpt lat="42.5309950" lon="11.5079258"/>
+      <trkpt lat="42.5305368" lon="11.5082551"/>
+      <trkpt lat="42.5305638" lon="11.5082551"/>
+      <trkpt lat="42.5296575" lon="11.5094861"/>
+      <trkpt lat="42.5294689" lon="11.5097787"/>
+      <trkpt lat="42.5294689" lon="11.5098153"/>
+      <trkpt lat="42.5289030" lon="11.5114246"/>
+      <trkpt lat="42.5280136" lon="11.5126681"/>
+      <trkpt lat="42.5280136" lon="11.5127047"/>
+      <trkpt lat="42.5276363" lon="11.5130338"/>
+      <trkpt lat="42.5273938" lon="11.5139481"/>
+      <trkpt lat="42.5273668" lon="11.5139481"/>
+      <trkpt lat="42.5269087" lon="11.5150089"/>
+      <trkpt lat="42.5269630" lon="11.5158870"/>
+      <trkpt lat="42.5268013" lon="11.5161979"/>
+      <trkpt lat="42.5271651" lon="11.5166916"/>
+      <trkpt lat="42.5277041" lon="11.5174596"/>
+      <trkpt lat="42.5287551" lon="11.5189040"/>
+      <trkpt lat="42.5294557" lon="11.5200194"/>
+      <trkpt lat="42.5297522" lon="11.5202206"/>
+      <trkpt lat="42.5309515" lon="11.5208239"/>
+      <trkpt lat="42.5321103" lon="11.5213725"/>
+      <trkpt lat="42.5340380" lon="11.5224338"/>
+      <trkpt lat="42.5364364" lon="11.5231105"/>
+      <trkpt lat="42.5364230" lon="11.5231105"/>
+      <trkpt lat="42.5384442" lon="11.5255791"/>
+      <trkpt lat="42.5399129" lon="11.5273717"/>
+      <trkpt lat="42.5401824" lon="11.5276277"/>
+      <trkpt lat="42.5405058" lon="11.5277557"/>
+      <trkpt lat="42.5425001" lon="11.5269511"/>
+      <trkpt lat="42.5445078" lon="11.5265853"/>
+      <trkpt lat="42.5459698" lon="11.5255344"/>
+      <trkpt lat="42.5478832" lon="11.5252783"/>
+      <trkpt lat="42.5493654" lon="11.5251137"/>
+      <trkpt lat="42.5497157" lon="11.5248760"/>
+      <trkpt lat="42.5500930" lon="11.5241260"/>
+      <trkpt lat="42.5509823" lon="11.5219861"/>
+      <trkpt lat="42.5512788" lon="11.5216752"/>
+      <trkpt lat="42.5515348" lon="11.5216385"/>
+      <trkpt lat="42.5529901" lon="11.5218398"/>
+      <trkpt lat="42.5549372" lon="11.5221601"/>
+      <trkpt lat="42.5563519" lon="11.5223614"/>
+      <trkpt lat="42.5571874" lon="11.5225260"/>
+      <trkpt lat="42.5576051" lon="11.5227273"/>
+      <trkpt lat="42.5578746" lon="11.5228736"/>
+    </trkseg>
+  </trk>
+
+</gpx>
